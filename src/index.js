@@ -1,5 +1,5 @@
 import express from 'express';
-import { readFile, writeFile } from 'fs/promises';
+import { readFile, writeFile, mkdir } from 'fs/promises';
 import cors from "cors";
 import path from 'path';
 
@@ -9,9 +9,25 @@ const PORT = process.env.PORT || 3000;
 // Senha simples para administração (use variável de ambiente em produção)
 const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'admin123';
 
+// Caminho para o diretório de dados persistentes e para o arquivo dados.json
+const PERSISTENT_DATA_DIR = '/app/data'; // Corresponde ao 'destination' no fly.toml
+const DATA_FILE_PATH = path.join(PERSISTENT_DATA_DIR, 'dados.json');
+
+// Função para garantir que o diretório de dados exista
+async function ensureDataDirectoryExists() {
+  try {
+    await mkdir(PERSISTENT_DATA_DIR, { recursive: true });
+  } catch (error) {
+    if (error.code !== 'EEXIST') { // Ignora o erro se o diretório já existir
+      console.error('Erro ao criar diretório de dados:', error);
+      throw error;
+    }
+  }
+}
+
 app.use(cors({ origin: '*' }));
 app.use(express.json());
-app.use(express.static('public')); // Para servir arquivos estáticos
+
 
 // Função auxiliar para ler dados
 async function readData() {
@@ -25,6 +41,7 @@ async function readData() {
 
 // Função auxiliar para escrever dados
 async function writeData(data) {
+    await ensureDataDirectoryExists(); // Garante que o diretório exista
     await writeFile('dados.json', JSON.stringify(data, null, 2));
 }
 

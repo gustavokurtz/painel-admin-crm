@@ -1,0 +1,4 @@
+[mounts]
+  source = "app_data_storage" # Nome do seu volume no Fly.io (pode ser qualquer nome)
+  destination = "/app/data"    # Caminho DENTRO do container onde o volume será montado.
+                                # Escolhi '/app/data' para ser um diretório dedicado.
