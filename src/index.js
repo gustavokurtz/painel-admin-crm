@@ -9,20 +9,15 @@ const PORT = process.env.PORT || 3000;
 // Senha simples para administração (use variável de ambiente em produção)
 const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'admin123';
 
-// Caminho para o diretório de dados persistentes e para o arquivo dados.json
-const PERSISTENT_DATA_DIR = '/app/data'; // Corresponde ao 'destination' no fly.toml
-const DATA_FILE_PATH = path.join(PERSISTENT_DATA_DIR, 'dados.json');
-
-// Função para garantir que o diretório de dados exista
+// Função para garantir que o diretório de dados existe
 async function ensureDataDirectoryExists() {
-  try {
-    await mkdir(PERSISTENT_DATA_DIR, { recursive: true });
-  } catch (error) {
-    if (error.code !== 'EEXIST') { // Ignora o erro se o diretório já existir
-      console.error('Erro ao criar diretório de dados:', error);
-      throw error;
+    try {
+        await mkdir('/app/data', { recursive: true });
+    } catch (error) {
+        if (error.code !== 'EEXIST') {
+            throw error;
+        }
     }
-  }
 }
 
 app.use(cors({ origin: '*' }));
@@ -31,18 +26,28 @@ app.use(express.json());
 
 // Função auxiliar para ler dados
 async function readData() {
+    await ensureDataDirectoryExists();
     try {
-        const data = await readFile('dados.json', 'utf-8');
+        const data = await readFile('/app/data/dados.json', 'utf-8');
         return JSON.parse(data);
     } catch (error) {
-        return []; // Retorna array vazio se arquivo não existir
+        if (error.code === 'ENOENT') {
+            await writeData([]); // Cria o arquivo se não existir
+            return [];
+        }
+        throw error;
     }
 }
 
 // Função auxiliar para escrever dados
 async function writeData(data) {
-    await ensureDataDirectoryExists(); // Garante que o diretório exista
-    await writeFile('dados.json', JSON.stringify(data, null, 2));
+    await ensureDataDirectoryExists();
+    try {
+        await writeFile('/app/data/dados.json', JSON.stringify(data, null, 2));
+    } catch (error) {
+        console.error('Erro ao escrever dados:', error);
+        throw error;
+    }
 }
 
 // Middleware para verificar senha de admin
@@ -178,4 +183,5 @@ app.post('/admin/upload-json', checkAdminAuth, async (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
     console.log(`Admin interface: http://localhost:${PORT}/admin`);
+    ensureDataDirectoryExists().catch(console.error);
 });
