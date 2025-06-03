@@ -72,11 +72,29 @@ app.get("/dados", async (req, res) => {
 app.post("/dados", async (req, res) => {
     try {
         const newData = req.body;
+        
+        // Validate required fields
+        if (!newData.empresa || typeof newData.empresa !== 'string') {
+            return res.status(400).json({ error: 'Campo "empresa" é obrigatório e deve ser uma string' });
+        }
+        if (!newData.site || typeof newData.site !== 'string') {
+            return res.status(400).json({ error: 'Campo "site" é obrigatório e deve ser uma string' });
+        }
+
         const data = await readData();
-        data.push(newData);
+        const newId = data.length > 0 ? Math.max(...data.map(item => item.id)) + 1 : 1;
+        const dataWithId = { 
+            id: newId, 
+            empresa: newData.empresa,
+            site: newData.site,
+            concluido: false // Valor padrão para novos registros
+        };
+        
+        data.push(dataWithId);
         await writeData(data);
-        res.status(201).json(newData);
+        res.status(201).json(dataWithId);
     } catch (error) {
+        console.error('Erro ao adicionar dados:', error);
         res.status(500).json({ error: 'Erro ao adicionar os dados' });
     }
 });
@@ -92,6 +110,28 @@ app.get('/admin', (req, res) => {
 app.post('/admin/replace-all', checkAdminAuth, async (req, res) => {
     try {
         const { data } = req.body;
+        
+        if (!Array.isArray(data)) {
+            return res.status(400).json({ error: 'O campo data deve ser um array' });
+        }
+
+        // Validate all items
+        for (let i = 0; i < data.length; i++) {
+            const item = data[i];
+            if (!item.id || typeof item.id !== 'number') {
+                return res.status(400).json({ error: `Item ${i}: Campo "id" é obrigatório e deve ser um número` });
+            }
+            if (!item.empresa || typeof item.empresa !== 'string') {
+                return res.status(400).json({ error: `Item ${i}: Campo "empresa" é obrigatório e deve ser uma string` });
+            }
+            if (!item.site || typeof item.site !== 'string') {
+                return res.status(400).json({ error: `Item ${i}: Campo "site" é obrigatório e deve ser uma string` });
+            }
+            if (typeof item.concluido !== 'boolean') {
+                return res.status(400).json({ error: `Item ${i}: Campo "concluido" deve ser true ou false` });
+            }
+        }
+
         await writeData(data);
         res.status(200).json({ message: 'Dados substituídos com sucesso', count: data.length });
     } catch (error) {
@@ -108,12 +148,72 @@ app.post('/admin/password', checkAdminAuth, async (req, res) => {
     }
 });
 
+app.put('/update-status/:id', async (req, res) => {
+    try {
+        const { id } = req.params;
+        const { concluido } = req.body;
+        const data = await readData();
+
+        // Verifica se o valor de 'concluido' é booleano
+        if (typeof concluido !== 'boolean') {
+            return res.status(400).json({ error: "'concluido' deve ser true ou false" });
+        }
+
+        // Encontra o índice do usuário no array
+        const index = data.findIndex(item => item.id === parseInt(id));
+
+        if (index === -1) {
+            return res.status(404).json({ error: 'Registro não encontrado' });
+        }
+
+        // Atualiza apenas o campo 'concluido'
+        data[index].concluido = concluido;
+
+        // Salva os dados atualizados
+        await writeData(data);
+
+        // Retorna o usuário atualizado
+        return res.status(200).json({
+            message: 'Status "concluido" atualizado com sucesso',
+            user: data[index]
+        });
+    } catch (error) {
+        console.error(error);
+        return res.status(500).json({ error: 'Erro ao atualizar status' });
+    }
+});
+
 // Adicionar múltiplos registros
 app.post('/admin/add-multiple', checkAdminAuth, async (req, res) => {
     try {
         const { data } = req.body;
+        
+        if (!Array.isArray(data)) {
+            return res.status(400).json({ error: 'O campo data deve ser um array' });
+        }
+
+        // Validate all items before adding any
+        for (let i = 0; i < data.length; i++) {
+            const item = data[i];
+            if (!item.empresa || typeof item.empresa !== 'string') {
+                return res.status(400).json({ error: `Item ${i}: Campo "empresa" é obrigatório e deve ser uma string` });
+            }
+            if (!item.site || typeof item.site !== 'string') {
+                return res.status(400).json({ error: `Item ${i}: Campo "site" é obrigatório e deve ser uma string` });
+            }
+        }
+
         const existingData = await readData();
-        existingData.push(...data);
+        let maxId = existingData.length > 0 ? Math.max(...existingData.map(item => item.id)) : 0;
+        
+        const newData = data.map(item => ({
+            id: ++maxId,
+            empresa: item.empresa,
+            site: item.site,
+            concluido: false // Default value for new records
+        }));
+        
+        existingData.push(...newData);
         await writeData(existingData);
         res.status(200).json({ message: 'Dados adicionados com sucesso', added: data.length });
     } catch (error) {
@@ -141,8 +241,26 @@ app.put('/admin/edit/:index', checkAdminAuth, async (req, res) => {
         if (index < 0 || index >= data.length) {
             return res.status(404).json({ error: 'Registro não encontrado' });
         }
+
+        // Validate required fields
+        if (!updatedItem.empresa || typeof updatedItem.empresa !== 'string') {
+            return res.status(400).json({ error: 'Campo "empresa" é obrigatório e deve ser uma string' });
+        }
+        if (!updatedItem.site || typeof updatedItem.site !== 'string') {
+            return res.status(400).json({ error: 'Campo "site" é obrigatório e deve ser uma string' });
+        }
+        if (typeof updatedItem.concluido !== 'boolean') {
+            return res.status(400).json({ error: 'Campo "concluido" deve ser true ou false' });
+        }
+
+        // Preserve the original ID and update other fields
+        data[index] = {
+            id: data[index].id,
+            empresa: updatedItem.empresa,
+            site: updatedItem.site,
+            concluido: updatedItem.concluido
+        };
         
-        data[index] = updatedItem;
         await writeData(data);
         res.status(200).json({ message: 'Registro editado com sucesso', item: updatedItem });
     } catch (error) {

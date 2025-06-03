@@ -1,4002 +1,6008 @@
 [
   {
+    "id": 1,
     "empresa": "Onfly",
-    "site": "https://www.onfly.com.br/"
+    "site": "https://www.onfly.com.br/",
+    "concluido": true
   },
   {
+    "id": 2,
     "empresa": "Blip",
-    "site": "https://www.blip.ai/"
+    "site": "https://www.blip.ai/",
+    "concluido": false
   },
   {
+    "id": 3,
     "empresa": "Dock",
-    "site": "https://dock.tech/"
+    "site": "https://dock.tech/",
+    "concluido": false
   },
   {
+    "id": 4,
     "empresa": "Hurb",
-    "site": "https://www.hurb.com/br/"
+    "site": "https://www.hurb.com/br/",
+    "concluido": false
   },
   {
+    "id": 5,
     "empresa": "Scala Data Centers",
-    "site": "https://scaladatacenters.com/"
+    "site": "https://scaladatacenters.com/",
+    "concluido": false
   },
   {
+    "id": 6,
     "empresa": "Flash",
-    "site": "https://flashapp.com.br/"
+    "site": "https://flashapp.com.br/",
+    "concluido": false
   },
   {
+    "id": 7,
     "empresa": "CAF",
-    "site": "https://en.combateafraude.com/"
+    "site": "https://en.combateafraude.com/",
+    "concluido": false
   },
   {
+    "id": 8,
     "empresa": "Next Fit",
-    "site": "https://nextfit.com.br/"
+    "site": "https://nextfit.com.br/",
+    "concluido": false
   },
   {
+    "id": 9,
     "empresa": "Pismo",
-    "site": "https://www.pismo.io/"
+    "site": "https://www.pismo.io/",
+    "concluido": false
   },
   {
+    "id": 10,
     "empresa": "Gupy",
-    "site": "http://gupy.io/"
+    "site": "http://gupy.io/",
+    "concluido": false
   },
   {
+    "id": 11,
     "empresa": "Hashdex",
-    "site": "http://www.hashdex.com/"
+    "site": "http://www.hashdex.com/",
+    "concluido": false
   },
   {
+    "id": 12,
     "empresa": "Cayena",
-    "site": "https://www.cayena.com/"
+    "site": "https://www.cayena.com/",
+    "concluido": false
   },
   {
+    "id": 13,
     "empresa": "ASAAS",
-    "site": "https://www.asaas.com/"
+    "site": "https://www.asaas.com/",
+    "concluido": false
   },
   {
+    "id": 14,
     "empresa": "Gringo",
-    "site": "https://www.gringo.com.vc/"
+    "site": "https://www.gringo.com.vc/",
+    "concluido": false
   },
   {
+    "id": 15,
     "empresa": "Omie",
-    "site": "http://www.omie.com.br/"
+    "site": "http://www.omie.com.br/",
+    "concluido": false
   },
   {
+    "id": 16,
     "empresa": "Mottu",
-    "site": "http://www.mottu.com.br/"
+    "site": "http://www.mottu.com.br/",
+    "concluido": false
   },
   {
+    "id": 17,
     "empresa": "Fintalk AI",
-    "site": "https://www.fintalk.ai/"
+    "site": "https://www.fintalk.ai/",
+    "concluido": false
   },
   {
+    "id": 18,
     "empresa": "Kovi",
-    "site": "https://www.kovi.com.br/"
+    "site": "https://www.kovi.com.br/",
+    "concluido": false
   },
   {
+    "id": 19,
     "empresa": "Mecanizou",
-    "site": "https://mecanizou.com/"
+    "site": "https://mecanizou.com/",
+    "concluido": false
   },
   {
+    "id": 20,
     "empresa": "Movile",
-    "site": "https://www.movile.com/"
+    "site": "https://www.movile.com/",
+    "concluido": false
   },
   {
+    "id": 21,
     "empresa": "Traive",
-    "site": "http://traivefinance.com/"
+    "site": "http://traivefinance.com/",
+    "concluido": false
   },
   {
+    "id": 22,
     "empresa": "Cortex",
-    "site": "http://www.cortex-intelligence.com/"
+    "site": "http://www.cortex-intelligence.com/",
+    "concluido": false
   },
   {
+    "id": 23,
     "empresa": "Sami",
-    "site": "https://www.samisaude.com.br/"
+    "site": "https://www.samisaude.com.br/",
+    "concluido": false
   },
   {
+    "id": 24,
     "empresa": "99",
-    "site": "http://99app.com/"
+    "site": "http://99app.com/",
+    "concluido": false
   },
   {
+    "id": 25,
     "empresa": "Caju",
-    "site": "http://www.caju.com.br/"
+    "site": "http://www.caju.com.br/",
+    "concluido": false
   },
   {
+    "id": 26,
     "empresa": "CRMBonus",
-    "site": "https://www.crmbonus.com.br/en"
+    "site": "https://www.crmbonus.com.br/en",
+    "concluido": false
   },
   {
+    "id": 27,
     "empresa": "Solides Tecnologia",
-    "site": "http://www.solides.com.br/"
+    "site": "http://www.solides.com.br/",
+    "concluido": false
   },
   {
+    "id": 28,
     "empresa": "Paytrack",
-    "site": "https://heyofertas.com/"
+    "site": "https://heyofertas.com/",
+    "concluido": false
   },
   {
+    "id": 29,
     "empresa": "Buser",
-    "site": "https://www.buser.com.br/"
+    "site": "https://www.buser.com.br/",
+    "concluido": false
   },
   {
+    "id": 30,
     "empresa": "ContaAzul",
-    "site": "https://contaazul.com/"
+    "site": "https://contaazul.com/",
+    "concluido": false
   },
   {
+    "id": 31,
     "empresa": "Tenchi Security",
-    "site": "https://www.tenchisecurity.com/"
+    "site": "https://www.tenchisecurity.com/",
+    "concluido": false
   },
   {
+    "id": 32,
     "empresa": "BHub",
-    "site": "https://bhub.ai/"
+    "site": "https://bhub.ai/",
+    "concluido": false
   },
   {
+    "id": 33,
     "empresa": "Bionexo",
-    "site": "http://bionexo.com/"
+    "site": "http://bionexo.com/",
+    "concluido": false
   },
   {
+    "id": 34,
     "empresa": "idwall",
-    "site": "https://idwall.co/"
+    "site": "https://idwall.co/",
+    "concluido": false
   },
   {
+    "id": 35,
     "empresa": "Digibee",
-    "site": "https://www.digibee.com/"
+    "site": "https://www.digibee.com/",
+    "concluido": false
   },
   {
+    "id": 36,
     "empresa": "isaac",
-    "site": "https://www.isaac.com.br/"
+    "site": "https://www.isaac.com.br/",
+    "concluido": false
   },
   {
+    "id": 37,
     "empresa": "Nelogica",
-    "site": "https://www.nelogica.com.br/"
+    "site": "https://www.nelogica.com.br/",
+    "concluido": false
   },
   {
+    "id": 38,
     "empresa": "Grão Direto",
-    "site": "http://www.graodireto.com.br/"
+    "site": "http://www.graodireto.com.br/",
+    "concluido": false
   },
   {
+    "id": 39,
     "empresa": "Logcomex",
-    "site": "http://logcomex.com/"
+    "site": "http://logcomex.com/",
+    "concluido": false
   },
   {
+    "id": 40,
     "empresa": "Neofin",
-    "site": "https://neofin.com.br/"
+    "site": "https://neofin.com.br/",
+    "concluido": false
   },
   {
+    "id": 41,
     "empresa": "Superlógica Tecnologias Ltda.",
-    "site": "http://superlogica.com/"
+    "site": "http://superlogica.com/",
+    "concluido": false
   },
   {
+    "id": 42,
     "empresa": "a55",
-    "site": "https://a55.tech/"
+    "site": "https://a55.tech/",
+    "concluido": false
   },
   {
+    "id": 43,
     "empresa": "Iugu",
-    "site": "http://iugu.com/"
+    "site": "http://iugu.com/",
+    "concluido": false
   },
   {
+    "id": 44,
     "empresa": "Qive",
-    "site": "https://qive.com.br/"
+    "site": "https://qive.com.br/",
+    "concluido": false
   },
   {
+    "id": 45,
     "empresa": "Intuitive Care",
-    "site": "https://www.intuitivecare.com/"
+    "site": "https://www.intuitivecare.com/",
+    "concluido": false
   },
   {
+    "id": 46,
     "empresa": "dr.consulta",
-    "site": "http://www.drconsulta.com/"
+    "site": "http://www.drconsulta.com/",
+    "concluido": false
   },
   {
+    "id": 47,
     "empresa": "Justos",
-    "site": "https://www.justos.com/"
+    "site": "https://www.justos.com/",
+    "concluido": false
   },
   {
+    "id": 48,
     "empresa": "Principia",
-    "site": "https://principia.net/"
+    "site": "https://principia.net/",
+    "concluido": false
   },
   {
+    "id": 49,
     "empresa": "Hilab",
-    "site": "https://fazumhilab.com.br/"
+    "site": "https://fazumhilab.com.br/",
+    "concluido": false
   },
   {
+    "id": 50,
     "empresa": "Skyone",
-    "site": "http://skyone.solutions/"
+    "site": "http://skyone.solutions/",
+    "concluido": false
   },
   {
+    "id": 51,
     "empresa": "Osana",
-    "site": "https://www.osanasalud.com/"
+    "site": "https://www.osanasalud.com/",
+    "concluido": false
   },
   {
+    "id": 52,
     "empresa": "Akad Seguros",
-    "site": "https://akadseguros.com.br/"
+    "site": "https://akadseguros.com.br/",
+    "concluido": false
   },
   {
+    "id": 53,
     "empresa": "Trela",
-    "site": "https://www.trela.com.br/"
+    "site": "https://www.trela.com.br/",
+    "concluido": false
   },
   {
+    "id": 54,
     "empresa": "Nagro",
-    "site": "https://nagro.com.br/"
+    "site": "https://nagro.com.br/",
+    "concluido": false
   },
   {
+    "id": 55,
     "empresa": "Tarken",
-    "site": "https://www.tarken.com.br/en/home"
+    "site": "https://www.tarken.com.br/en/home",
+    "concluido": false
   },
   {
+    "id": 56,
     "empresa": "NetLex",
-    "site": "https://netlex.io/en/"
+    "site": "https://netlex.io/en/",
+    "concluido": false
   },
   {
+    "id": 57,
     "empresa": "Tino",
-    "site": "https://tino.com.br/"
+    "site": "https://tino.com.br/",
+    "concluido": false
   },
   {
+    "id": 58,
     "empresa": "Softplan",
-    "site": "http://www.softplan.com.br/"
+    "site": "http://www.softplan.com.br/",
+    "concluido": false
   },
   {
+    "id": 59,
     "empresa": "Agrosmart",
-    "site": "http://www.agrosmart.com.br/"
+    "site": "http://www.agrosmart.com.br/",
+    "concluido": false
   },
   {
+    "id": 60,
     "empresa": "Fin-X",
-    "site": "https://finxapp.com.br/"
+    "site": "https://finxapp.com.br/",
+    "concluido": false
   },
   {
+    "id": 61,
     "empresa": "Memed",
-    "site": "http://memed.com.br/"
+    "site": "http://memed.com.br/",
+    "concluido": false
   },
   {
+    "id": 62,
     "empresa": "V360",
-    "site": "https://virtual360.io/"
+    "site": "https://virtual360.io/",
+    "concluido": false
   },
   {
+    "id": 63,
     "empresa": "Escale",
-    "site": "http://www.escale.com.br/"
+    "site": "http://www.escale.com.br/",
+    "concluido": false
   },
   {
+    "id": 64,
     "empresa": "Musa",
-    "site": "https://musa.co/"
+    "site": "https://musa.co/",
+    "concluido": false
   },
   {
+    "id": 65,
     "empresa": "Seedz",
-    "site": "https://www.seedz.ag/"
+    "site": "https://www.seedz.ag/",
+    "concluido": false
   },
   {
+    "id": 66,
     "empresa": "Privacy Tools",
-    "site": "https://privacytools.com.br/"
+    "site": "https://privacytools.com.br/",
+    "concluido": false
   },
   {
+    "id": 67,
     "empresa": "Semantix",
-    "site": "https://semantix.ai/sobre-a-companhia/"
+    "site": "https://semantix.ai/sobre-a-companhia/",
+    "concluido": false
   },
   {
+    "id": 68,
     "empresa": "Avante",
-    "site": "http://www.avante.com.vc/"
+    "site": "http://www.avante.com.vc/",
+    "concluido": false
   },
   {
+    "id": 69,
     "empresa": "Neoway",
-    "site": "https://www.neoway.com.br/en"
+    "site": "https://www.neoway.com.br/en",
+    "concluido": false
   },
   {
+    "id": 70,
     "empresa": "New Wave",
-    "site": "https://newwave-global.com/en/"
+    "site": "https://newwave-global.com/en/",
+    "concluido": false
   },
   {
+    "id": 71,
     "empresa": "Pontes Máquinas",
-    "site": "https://pontesmaquinas.com.br/"
+    "site": "https://pontesmaquinas.com.br/",
+    "concluido": false
   },
   {
+    "id": 72,
     "empresa": "BrandLovrs",
-    "site": "https://www.brandlovrs.com/"
+    "site": "https://www.brandlovrs.com/",
+    "concluido": false
   },
   {
+    "id": 73,
     "empresa": "ALTAVE",
-    "site": "http://www.altave.com.br/"
+    "site": "http://www.altave.com.br/",
+    "concluido": false
   },
   {
+    "id": 74,
     "empresa": "Ambar Technologies",
-    "site": "http://www.ambar.tech/"
+    "site": "http://www.ambar.tech/",
+    "concluido": false
   },
   {
+    "id": 75,
     "empresa": "senhasegura",
-    "site": "https://senhasegura.com/"
+    "site": "https://senhasegura.com/",
+    "concluido": false
   },
   {
+    "id": 76,
     "empresa": "Theia",
-    "site": "https://theia.com.br/"
+    "site": "https://theia.com.br/",
+    "concluido": false
   },
   {
+    "id": 77,
     "empresa": "Aegro",
-    "site": "http://www.aegro.com.br/"
+    "site": "http://www.aegro.com.br/",
+    "concluido": false
   },
   {
+    "id": 78,
     "empresa": "Psyche Aerospace",
-    "site": "https://psycheaerospace.com/"
+    "site": "https://psycheaerospace.com/",
+    "concluido": false
   },
   {
+    "id": 79,
     "empresa": "StartSe",
-    "site": "https://www.startse.com/"
+    "site": "https://www.startse.com/",
+    "concluido": false
   },
   {
+    "id": 80,
     "empresa": "Destaxa",
-    "site": "http://www.destaxa.com.br/"
+    "site": "http://www.destaxa.com.br/",
+    "concluido": false
   },
   {
+    "id": 81,
     "empresa": "Pitzi",
-    "site": "http://www.pitzi.com.br/"
+    "site": "http://www.pitzi.com.br/",
+    "concluido": false
   },
   {
+    "id": 82,
     "empresa": "Cognitivo.ai",
-    "site": "https://www.cognitivo.ai/"
+    "site": "https://www.cognitivo.ai/",
+    "concluido": false
   },
   {
+    "id": 83,
     "empresa": "Cilia",
-    "site": "https://cilia.com.br/"
+    "site": "https://cilia.com.br/",
+    "concluido": false
   },
   {
+    "id": 84,
     "empresa": "BEMAGRO",
-    "site": "https://bemagro.com/"
+    "site": "https://bemagro.com/",
+    "concluido": false
   },
   {
+    "id": 85,
     "empresa": "QuintoAndar",
-    "site": "https://quintoandar.com.br/"
+    "site": "https://quintoandar.com.br/",
+    "concluido": false
   },
   {
+    "id": 86,
     "empresa": "Guiabolso",
-    "site": "https://www.guiabolso.com.br/"
+    "site": "https://www.guiabolso.com.br/",
+    "concluido": false
   },
   {
+    "id": 87,
     "empresa": "payleven",
-    "site": "https://sumup.com/"
+    "site": "https://sumup.com/",
+    "concluido": false
   },
   {
+    "id": 88,
     "empresa": "Accountfy",
-    "site": "https://www.accountfy.com/"
+    "site": "https://www.accountfy.com/",
+    "concluido": false
   },
   {
+    "id": 89,
     "empresa": "BossaBox",
-    "site": "http://bossabox.com/"
+    "site": "http://bossabox.com/",
+    "concluido": false
   },
   {
+    "id": 90,
     "empresa": "IBBX",
-    "site": "https://ibbx.tech/"
+    "site": "https://ibbx.tech/",
+    "concluido": false
   },
   {
+    "id": 91,
     "empresa": "ROCK Encantech",
-    "site": "https://rockencantech.com.br/"
+    "site": "https://rockencantech.com.br/",
+    "concluido": false
   },
   {
+    "id": 92,
     "empresa": "Ativy",
-    "site": "http://www.ativy.com/"
+    "site": "http://www.ativy.com/",
+    "concluido": false
   },
   {
+    "id": 93,
     "empresa": "Strm Music",
-    "site": "https://www.strmmusic.com/en"
+    "site": "https://www.strmmusic.com/en",
+    "concluido": false
   },
   {
+    "id": 94,
     "empresa": "3778",
-    "site": "https://3778.care/"
+    "site": "https://3778.care/",
+    "concluido": false
   },
   {
+    "id": 95,
     "empresa": "Hi Platform",
-    "site": "http://www.hiplatform.com/"
+    "site": "http://www.hiplatform.com/",
+    "concluido": false
   },
   {
+    "id": 96,
     "empresa": "Saipos",
-    "site": "https://saipos.com/"
+    "site": "https://saipos.com/",
+    "concluido": false
   },
   {
+    "id": 97,
     "empresa": "Turn2C",
-    "site": "https://www.turn2c.com/"
+    "site": "https://www.turn2c.com/",
+    "concluido": false
   },
   {
+    "id": 98,
     "empresa": "Odata Brasil",
-    "site": "https://odatacolocation.com/"
+    "site": "https://odatacolocation.com/",
+    "concluido": false
   },
   {
+    "id": 99,
     "empresa": "Vindi",
-    "site": "http://www.vindi.com.br/"
+    "site": "http://www.vindi.com.br/",
+    "concluido": false
   },
   {
+    "id": 100,
     "empresa": "Printi",
-    "site": "https://www.printi.com.br/"
+    "site": "https://www.printi.com.br/",
+    "concluido": false
   },
   {
+    "id": 101,
     "empresa": "Knewin",
-    "site": "http://www.knewin.com/"
+    "site": "http://www.knewin.com/",
+    "concluido": false
   },
   {
+    "id": 102,
     "empresa": "Woba",
-    "site": "https://woba.com.br/"
+    "site": "https://woba.com.br/",
+    "concluido": false
   },
   {
+    "id": 103,
     "empresa": "Syos",
-    "site": "https://syos.com/"
+    "site": "https://syos.com/",
+    "concluido": false
   },
   {
+    "id": 104,
     "empresa": "Cromai",
-    "site": "https://www.cromai.com/"
+    "site": "https://www.cromai.com/",
+    "concluido": false
   },
   {
+    "id": 105,
     "empresa": "isaac",
-    "site": "https://olaisaac.com.br/"
+    "site": "https://olaisaac.com.br/",
+    "concluido": false
   },
   {
+    "id": 106,
     "empresa": "Infleet",
-    "site": "https://infleet.com.br/"
+    "site": "https://infleet.com.br/",
+    "concluido": false
   },
   {
+    "id": 107,
     "empresa": "Leads2b",
-    "site": "https://leads2b.com/"
+    "site": "https://leads2b.com/",
+    "concluido": false
   },
   {
+    "id": 108,
     "empresa": "WEEL",
-    "site": "https://www.weel.com.br/"
+    "site": "https://www.weel.com.br/",
+    "concluido": false
   },
   {
+    "id": 109,
     "empresa": "Ascenty",
-    "site": "http://ascenty.com/"
+    "site": "http://ascenty.com/",
+    "concluido": false
   },
   {
+    "id": 110,
     "empresa": "Origem",
-    "site": "https://www.origem.xyz/"
+    "site": "https://www.origem.xyz/",
+    "concluido": false
   },
   {
+    "id": 111,
     "empresa": "Fretadão",
-    "site": "https://www.fretadao.com.br/"
+    "site": "https://www.fretadao.com.br/",
+    "concluido": false
   },
   {
+    "id": 112,
     "empresa": "Letrus",
-    "site": "http://letrus.com.br/"
+    "site": "http://letrus.com.br/",
+    "concluido": false
   },
   {
+    "id": 113,
     "empresa": "Plugify",
-    "site": "https://www.plugify.com.br/"
+    "site": "https://www.plugify.com.br/",
+    "concluido": false
   },
   {
+    "id": 114,
     "empresa": "HeroSpark",
-    "site": "https://herospark.com/"
+    "site": "https://herospark.com/",
+    "concluido": false
   },
   {
+    "id": 115,
     "empresa": "OmniChat",
-    "site": "https://omni.chat/"
+    "site": "https://omni.chat/",
+    "concluido": false
   },
   {
+    "id": 116,
     "empresa": "Worc",
-    "site": "https://www.worc.com.br/"
+    "site": "https://www.worc.com.br/",
+    "concluido": false
   },
   {
+    "id": 117,
     "empresa": "Listo",
-    "site": "https://soulisto.com.br/"
+    "site": "https://soulisto.com.br/",
+    "concluido": false
   },
   {
+    "id": 118,
     "empresa": "Asksuite",
-    "site": "https://asksuite.com/"
+    "site": "https://asksuite.com/",
+    "concluido": false
   },
   {
+    "id": 119,
     "empresa": "CyberLabs",
-    "site": "https://www.cyberlabs.ai/"
+    "site": "https://www.cyberlabs.ai/",
+    "concluido": false
   },
   {
+    "id": 120,
     "empresa": "America Net",
-    "site": "https://americanet.com.br/"
+    "site": "https://americanet.com.br/",
+    "concluido": false
   },
   {
+    "id": 121,
     "empresa": "F360",
-    "site": "https://www.f360.com.br/"
+    "site": "https://www.f360.com.br/",
+    "concluido": false
   },
   {
+    "id": 122,
     "empresa": "Magnetis",
-    "site": "https://magnetis.com.br/"
+    "site": "https://magnetis.com.br/",
+    "concluido": false
   },
   {
+    "id": 123,
     "empresa": "Laqus",
-    "site": "https://www.laqus.com.br/"
+    "site": "https://www.laqus.com.br/",
+    "concluido": false
   },
   {
+    "id": 124,
     "empresa": "Kiwify",
-    "site": "https://kiwify.com.br/"
+    "site": "https://kiwify.com.br/",
+    "concluido": false
   },
   {
+    "id": 125,
     "empresa": "Base39",
-    "site": "https://base39.com.br/"
+    "site": "https://base39.com.br/",
+    "concluido": false
   },
   {
+    "id": 126,
     "empresa": "DogHero",
-    "site": "https://www.doghero.com.br/"
+    "site": "https://www.doghero.com.br/",
+    "concluido": false
   },
   {
+    "id": 127,
     "empresa": "Cogtive",
-    "site": "https://www.cogtive.com/"
+    "site": "https://www.cogtive.com/",
+    "concluido": false
   },
   {
+    "id": 128,
     "empresa": "DEEP ESG",
-    "site": "https://www.deepesg.com/"
+    "site": "https://www.deepesg.com/",
+    "concluido": false
   },
   {
+    "id": 129,
     "empresa": "STILINGUE",
-    "site": "https://stilingue.com.br/"
+    "site": "https://stilingue.com.br/",
+    "concluido": false
   },
   {
+    "id": 130,
     "empresa": "Avantia",
-    "site": "https://www.avantia.com.br/"
+    "site": "https://www.avantia.com.br/",
+    "concluido": false
   },
   {
+    "id": 131,
     "empresa": "Track.co",
-    "site": "https://track.co/"
+    "site": "https://track.co/",
+    "concluido": false
   },
   {
+    "id": 132,
     "empresa": "Pix Force",
-    "site": "https://pixforce.com.br/"
+    "site": "https://pixforce.com.br/",
+    "concluido": false
   },
   {
+    "id": 133,
     "empresa": "Nibo",
-    "site": "http://www.nibo.com.br/"
+    "site": "http://www.nibo.com.br/",
+    "concluido": false
   },
   {
+    "id": 134,
     "empresa": "Loovi",
-    "site": "https://www.loovi.com.br/"
+    "site": "https://www.loovi.com.br/",
+    "concluido": false
   },
   {
+    "id": 135,
     "empresa": "Ramper",
-    "site": "http://www.ramper.com.br/"
+    "site": "http://www.ramper.com.br/",
+    "concluido": false
   },
   {
+    "id": 136,
     "empresa": "InfoPrice",
-    "site": "https://www.infoprice.co/"
+    "site": "https://www.infoprice.co/",
+    "concluido": false
   },
   {
+    "id": 137,
     "empresa": "Company Hero",
-    "site": "https://www.companyhero.com/"
+    "site": "https://www.companyhero.com/",
+    "concluido": false
   },
   {
+    "id": 138,
     "empresa": "unico IDtech",
-    "site": "https://unico.io/"
+    "site": "https://unico.io/",
+    "concluido": false
   },
   {
+    "id": 139,
     "empresa": "FS Security",
-    "site": "https://fs.com.br/"
+    "site": "https://fs.com.br/",
+    "concluido": false
   },
   {
+    "id": 140,
     "empresa": "Looqbox",
-    "site": "https://www.looqbox.com/"
+    "site": "https://www.looqbox.com/",
+    "concluido": false
   },
   {
+    "id": 141,
     "empresa": "TradersClub",
-    "site": "https://tc.com.br/"
+    "site": "https://tc.com.br/",
+    "concluido": false
   },
   {
+    "id": 142,
     "empresa": "EPOC Tech",
-    "site": "https://www.epoc.com.br/"
+    "site": "https://www.epoc.com.br/",
+    "concluido": false
   },
   {
+    "id": 143,
     "empresa": "Kenlo",
-    "site": "http://www.kenlo.com.br/"
+    "site": "http://www.kenlo.com.br/",
+    "concluido": false
   },
   {
+    "id": 144,
     "empresa": "Ali Credito",
-    "site": "http://www.alicredito.com.br/"
+    "site": "http://www.alicredito.com.br/",
+    "concluido": false
   },
   {
+    "id": 145,
     "empresa": "Quality Software",
-    "site": "http://www.quality.com.br/"
+    "site": "http://www.quality.com.br/",
+    "concluido": false
   },
   {
+    "id": 146,
     "empresa": "Smartbreeder",
-    "site": "http://www.smartbreeder.com.br/"
+    "site": "http://www.smartbreeder.com.br/",
+    "concluido": false
   },
   {
+    "id": 147,
     "empresa": "Monuv",
-    "site": "https://monuv.com.br/"
+    "site": "https://monuv.com.br/",
+    "concluido": false
   },
   {
+    "id": 148,
     "empresa": "Vai.Car",
-    "site": "https://vai.car/"
+    "site": "https://vai.car/",
+    "concluido": false
   },
   {
+    "id": 149,
     "empresa": "Wehandle",
-    "site": "https://www.wehandle.com.br/"
+    "site": "https://www.wehandle.com.br/",
+    "concluido": false
   },
   {
+    "id": 150,
     "empresa": "Ahgora",
-    "site": "http://www.ahgora.com.br/"
+    "site": "http://www.ahgora.com.br/",
+    "concluido": false
   },
   {
+    "id": 151,
     "empresa": "Stoque Soluções Tecnológicas",
-    "site": "http://www.stoque.com.br/"
+    "site": "http://www.stoque.com.br/",
+    "concluido": false
   },
   {
+    "id": 152,
     "empresa": "Rúmina",
-    "site": "https://rumina.com.br/"
+    "site": "https://rumina.com.br/",
+    "concluido": false
   },
   {
+    "id": 153,
     "empresa": "Auvo",
-    "site": "https://auvo.com.br/"
+    "site": "https://auvo.com.br/",
+    "concluido": false
   },
   {
+    "id": 154,
     "empresa": "4intelligence",
-    "site": "https://www.4intelligence.ai/"
+    "site": "https://www.4intelligence.ai/",
+    "concluido": false
   },
   {
+    "id": 155,
     "empresa": "DIO",
-    "site": "http://dio.me/"
+    "site": "http://dio.me/",
+    "concluido": false
   },
   {
+    "id": 156,
     "empresa": "iRancho",
-    "site": "https://www.irancho.com/"
+    "site": "https://www.irancho.com/",
+    "concluido": false
   },
   {
+    "id": 157,
     "empresa": "Captei",
-    "site": "https://captei.com.br/"
+    "site": "https://captei.com.br/",
+    "concluido": false
   },
   {
+    "id": 158,
     "empresa": "JOTA",
-    "site": "https://www.jota.info/"
+    "site": "https://www.jota.info/",
+    "concluido": false
   },
   {
+    "id": 159,
     "empresa": "Speedio",
-    "site": "https://speedio.com.br/"
+    "site": "https://speedio.com.br/",
+    "concluido": false
   },
   {
+    "id": 160,
     "empresa": "Layers Education",
-    "site": "https://layers.education/"
+    "site": "https://layers.education/",
+    "concluido": false
   },
   {
+    "id": 161,
     "empresa": "Nuria",
-    "site": "http://www.nuria.com.br/"
+    "site": "http://www.nuria.com.br/",
+    "concluido": false
   },
   {
+    "id": 162,
     "empresa": "Passei Direto",
-    "site": "http://www.passeidireto.com/"
+    "site": "http://www.passeidireto.com/",
+    "concluido": false
   },
   {
+    "id": 163,
     "empresa": "Tera",
-    "site": "https://somostera.com/"
+    "site": "https://somostera.com/",
+    "concluido": false
   },
   {
+    "id": 164,
     "empresa": "Aprova Digital",
-    "site": "https://aprova.com.br/"
+    "site": "https://aprova.com.br/",
+    "concluido": false
   },
   {
+    "id": 165,
     "empresa": "Contabilizei",
-    "site": "https://www.contabilizei.com.br/"
+    "site": "https://www.contabilizei.com.br/",
+    "concluido": false
   },
   {
+    "id": 166,
     "empresa": "RankMyApp",
-    "site": "http://www.rankmyapp.com/"
+    "site": "http://www.rankmyapp.com/",
+    "concluido": false
   },
   {
+    "id": 167,
     "empresa": "GreenPlat",
-    "site": "https://greenplat.com/"
+    "site": "https://greenplat.com/",
+    "concluido": false
   },
   {
+    "id": 168,
     "empresa": "Napp Solutions",
-    "site": "https://www.nappsolutions.com/"
+    "site": "https://www.nappsolutions.com/",
+    "concluido": false
   },
   {
+    "id": 169,
     "empresa": "Beedoo Software",
-    "site": "http://www.beedoo.com.br/"
+    "site": "http://www.beedoo.com.br/",
+    "concluido": false
   },
   {
+    "id": 170,
     "empresa": "EasyJur",
-    "site": "https://easyjur.com/"
+    "site": "https://easyjur.com/",
+    "concluido": false
   },
   {
+    "id": 171,
     "empresa": "mLabs",
-    "site": "https://www.mlabs.com.br/"
+    "site": "https://www.mlabs.com.br/",
+    "concluido": false
   },
   {
+    "id": 172,
     "empresa": "Dadosfera (Previously DataSprints)",
-    "site": "https://dadosfera.ai/"
+    "site": "https://dadosfera.ai/",
+    "concluido": false
   },
   {
+    "id": 173,
     "empresa": "Nomo",
-    "site": "https://www.nomo.com.br/"
+    "site": "https://www.nomo.com.br/",
+    "concluido": false
   },
   {
+    "id": 174,
     "empresa": "Stone",
-    "site": "https://www.stone.com.br/"
+    "site": "https://www.stone.com.br/",
+    "concluido": false
   },
   {
+    "id": 175,
     "empresa": "Cubos Academy",
-    "site": "https://cubos.academy/"
+    "site": "https://cubos.academy/",
+    "concluido": false
   },
   {
+    "id": 176,
     "empresa": "Satoshi",
-    "site": "https://sousatoshi.com.br/"
+    "site": "https://sousatoshi.com.br/",
+    "concluido": false
   },
   {
+    "id": 177,
     "empresa": "Bnex Retail Tech",
-    "site": "https://bnex.com.br/"
+    "site": "https://bnex.com.br/",
+    "concluido": false
   },
   {
+    "id": 178,
     "empresa": "Contraktor",
-    "site": "https://www.contraktor.com.br/"
+    "site": "https://www.contraktor.com.br/",
+    "concluido": false
   },
   {
+    "id": 179,
     "empresa": "VOLL",
-    "site": "https://govoll.com/"
+    "site": "https://govoll.com/",
+    "concluido": false
   },
   {
+    "id": 180,
     "empresa": "Conta Simples",
-    "site": "https://www.contasimples.com/"
+    "site": "https://www.contasimples.com/",
+    "concluido": false
   },
   {
+    "id": 181,
     "empresa": "FLOKI Technologies",
-    "site": "https://www.flokitech.com/"
+    "site": "https://www.flokitech.com/",
+    "concluido": false
   },
   {
+    "id": 182,
     "empresa": "Warren Investimentos",
-    "site": "https://www.warren.com.br/"
+    "site": "https://www.warren.com.br/",
+    "concluido": false
   },
   {
+    "id": 183,
     "empresa": "HARTB",
-    "site": "https://hartbgroup.com/"
+    "site": "https://hartbgroup.com/",
+    "concluido": false
   },
   {
+    "id": 184,
     "empresa": "OmniK",
-    "site": "https://www.omnik.com.br/"
+    "site": "https://www.omnik.com.br/",
+    "concluido": false
   },
   {
+    "id": 185,
     "empresa": "LINCROS",
-    "site": "https://www.lincros.com/"
+    "site": "https://www.lincros.com/",
+    "concluido": false
   },
   {
+    "id": 186,
     "empresa": "Acertpix",
-    "site": "https://acertpix.com.br/"
+    "site": "https://acertpix.com.br/",
+    "concluido": false
   },
   {
+    "id": 187,
     "empresa": "MotoristaPX",
-    "site": "https://motoristapx.com.br/"
+    "site": "https://motoristapx.com.br/",
+    "concluido": false
   },
   {
+    "id": 188,
     "empresa": "Tecnofit",
-    "site": "https://www.tecnofit.com.br/"
+    "site": "https://www.tecnofit.com.br/",
+    "concluido": false
   },
   {
+    "id": 189,
     "empresa": "Veracel Celulose",
-    "site": "https://www.veracel.com.br/"
+    "site": "https://www.veracel.com.br/",
+    "concluido": false
   },
   {
+    "id": 190,
     "empresa": "Incentive.me",
-    "site": "https://incentive.me/"
+    "site": "https://incentive.me/",
+    "concluido": false
   },
   {
+    "id": 191,
     "empresa": "Salux",
-    "site": "http://www.salux.com.br/"
+    "site": "http://www.salux.com.br/",
+    "concluido": false
   },
   {
+    "id": 192,
     "empresa": "Convenia",
-    "site": "http://www.convenia.com.br/"
+    "site": "http://www.convenia.com.br/",
+    "concluido": false
   },
   {
+    "id": 193,
     "empresa": "Kenoby",
-    "site": "https://www.kenoby.com/"
+    "site": "https://www.kenoby.com/",
+    "concluido": false
   },
   {
+    "id": 194,
     "empresa": "Nexodata",
-    "site": "https://nexodata.com.br/"
+    "site": "https://nexodata.com.br/",
+    "concluido": false
   },
   {
+    "id": 195,
     "empresa": "UpFlux",
-    "site": "http://upflux.net/"
+    "site": "http://upflux.net/",
+    "concluido": false
   },
   {
+    "id": 196,
     "empresa": "Gedanken",
-    "site": "https://gedanken.com.br/"
+    "site": "https://gedanken.com.br/",
+    "concluido": false
   },
   {
+    "id": 197,
     "empresa": "Squadra Tecnologia",
-    "site": "http://www.squadra.com.br/"
+    "site": "http://www.squadra.com.br/",
+    "concluido": false
   },
   {
+    "id": 198,
     "empresa": "Zup IT Innovation",
-    "site": "https://www.zupinnovation.com/"
+    "site": "https://www.zupinnovation.com/",
+    "concluido": false
   },
   {
+    "id": 199,
     "empresa": "EEMovel",
-    "site": "https://www.eemovel.com.br/"
+    "site": "https://www.eemovel.com.br/",
+    "concluido": false
   },
   {
+    "id": 200,
     "empresa": "Portal de Compras Públicas",
-    "site": "https://www.portaldecompraspublicas.com.br/"
+    "site": "https://www.portaldecompraspublicas.com.br/",
+    "concluido": false
   },
   {
+    "id": 201,
     "empresa": "Magis5",
-    "site": "https://magis5.com.br/"
+    "site": "https://magis5.com.br/",
+    "concluido": false
   },
   {
+    "id": 202,
     "empresa": "Acesso",
-    "site": "https://www.acesso.com/"
+    "site": "https://www.acesso.com/",
+    "concluido": false
   },
   {
+    "id": 203,
     "empresa": "Mereo",
-    "site": "https://mereo.com/"
+    "site": "https://mereo.com/",
+    "concluido": false
   },
   {
+    "id": 204,
     "empresa": "LINA",
-    "site": "https://www.linapay.io/"
+    "site": "https://www.linapay.io/",
+    "concluido": false
   },
   {
+    "id": 205,
     "empresa": "Home Agent",
-    "site": "http://www.homeagent.com.br/"
+    "site": "http://www.homeagent.com.br/",
+    "concluido": false
   },
   {
+    "id": 206,
     "empresa": "CleanCloud",
-    "site": "http://www.cleancloud.io/"
+    "site": "http://www.cleancloud.io/",
+    "concluido": false
   },
   {
+    "id": 207,
     "empresa": "RD Station",
-    "site": "http://rdstation.com/"
+    "site": "http://rdstation.com/",
+    "concluido": false
   },
   {
+    "id": 208,
     "empresa": "HubLocal",
-    "site": "https://hublocal.com.br/"
+    "site": "https://hublocal.com.br/",
+    "concluido": false
   },
   {
+    "id": 209,
     "empresa": "Check Plant",
-    "site": "http://www.checkplant.com.br/"
+    "site": "http://www.checkplant.com.br/",
+    "concluido": false
   },
   {
+    "id": 210,
     "empresa": "Closecare",
-    "site": "https://closecare.com.br/"
+    "site": "https://closecare.com.br/",
+    "concluido": false
   },
   {
+    "id": 211,
     "empresa": "Mind Lab",
-    "site": "http://www.mindlab.com.br/"
+    "site": "http://www.mindlab.com.br/",
+    "concluido": false
   },
   {
+    "id": 212,
     "empresa": "Camerite",
-    "site": "https://camerite.com/"
+    "site": "https://camerite.com/",
+    "concluido": false
   },
   {
+    "id": 213,
     "empresa": "Cobli",
-    "site": "http://www.cobli.co/"
+    "site": "http://www.cobli.co/",
+    "concluido": false
   },
   {
+    "id": 214,
     "empresa": "Acqio",
-    "site": "https://acqio.com.br/"
+    "site": "https://acqio.com.br/",
+    "concluido": false
   },
   {
+    "id": 215,
     "empresa": "Kzas.AI",
-    "site": "https://www.kzas.ai/"
+    "site": "https://www.kzas.ai/",
+    "concluido": false
   },
   {
+    "id": 216,
     "empresa": "CargoX",
-    "site": "http://www.cargox.com.br/"
+    "site": "http://www.cargox.com.br/",
+    "concluido": false
   },
   {
+    "id": 217,
     "empresa": "Quicko",
-    "site": "https://web.quicko.com.br/"
+    "site": "https://web.quicko.com.br/",
+    "concluido": false
   },
   {
+    "id": 218,
     "empresa": "Xerpa",
-    "site": "https://xerpay.com.br/"
+    "site": "https://xerpay.com.br/",
+    "concluido": false
   },
   {
+    "id": 219,
     "empresa": "Colmeia",
-    "site": "https://colmeia.me/"
+    "site": "https://colmeia.me/",
+    "concluido": false
   },
   {
+    "id": 220,
     "empresa": "Kryptus",
-    "site": "https://kryptus.com/"
+    "site": "https://kryptus.com/",
+    "concluido": false
   },
   {
+    "id": 221,
     "empresa": "Siteware",
-    "site": "http://siteware.com.br/"
+    "site": "http://siteware.com.br/",
+    "concluido": false
   },
   {
+    "id": 222,
     "empresa": "Kestraa",
-    "site": "https://www.kestraa.com.br/"
+    "site": "https://www.kestraa.com.br/",
+    "concluido": false
   },
   {
+    "id": 223,
     "empresa": "Feegow Clinic",
-    "site": "https://feegowclinic.com.br/"
+    "site": "https://feegowclinic.com.br/",
+    "concluido": false
   },
   {
+    "id": 224,
     "empresa": "Unico AI",
-    "site": "https://unicoai.tech/"
+    "site": "https://unicoai.tech/",
+    "concluido": false
   },
   {
+    "id": 225,
     "empresa": "GoBots",
-    "site": "https://gobots.ai/en/"
+    "site": "https://gobots.ai/en/",
+    "concluido": false
   },
   {
+    "id": 226,
     "empresa": "Locaweb",
-    "site": "https://institucional.locaweb.com.br/en/"
+    "site": "https://institucional.locaweb.com.br/en/",
+    "concluido": false
   },
   {
+    "id": 227,
     "empresa": "Delta Global",
-    "site": "https://www.deltaglobal.com.br/"
+    "site": "https://www.deltaglobal.com.br/",
+    "concluido": false
   },
   {
+    "id": 228,
     "empresa": "Zerezes",
-    "site": "https://zerezes.com.br/"
+    "site": "https://zerezes.com.br/",
+    "concluido": false
   },
   {
+    "id": 229,
     "empresa": "payfy",
-    "site": "https://payfy.io/"
+    "site": "https://payfy.io/",
+    "concluido": false
   },
   {
+    "id": 230,
     "empresa": "Movidesk",
-    "site": "https://www.movidesk.com/"
+    "site": "https://www.movidesk.com/",
+    "concluido": false
   },
   {
+    "id": 231,
     "empresa": "Mission Brasil",
-    "site": "https://www.missionbrasil.com.br/"
+    "site": "https://www.missionbrasil.com.br/",
+    "concluido": false
   },
   {
+    "id": 232,
     "empresa": "PagSeguro",
-    "site": "https://pagbank.com.br/"
+    "site": "https://pagbank.com.br/",
+    "concluido": false
   },
   {
+    "id": 233,
     "empresa": "Approva Facil",
-    "site": "https://www.approvafacil.com.br/"
+    "site": "https://www.approvafacil.com.br/",
+    "concluido": false
   },
   {
+    "id": 234,
     "empresa": "BLU365",
-    "site": "https://blu365.com.br/"
+    "site": "https://blu365.com.br/",
+    "concluido": false
   },
   {
+    "id": 235,
     "empresa": "Agenda Edu",
-    "site": "http://www.agendaedu.com/"
+    "site": "http://www.agendaedu.com/",
+    "concluido": false
   },
   {
+    "id": 236,
     "empresa": "Datarisk.io",
-    "site": "http://www.datarisk.io/"
+    "site": "http://www.datarisk.io/",
+    "concluido": false
   },
   {
+    "id": 237,
     "empresa": "Wevo",
-    "site": "https://www.wevo.io/"
+    "site": "https://www.wevo.io/",
+    "concluido": false
   },
   {
+    "id": 238,
     "empresa": "Poli Digital",
-    "site": "https://poli.digital/"
+    "site": "https://poli.digital/",
+    "concluido": false
   },
   {
+    "id": 239,
     "empresa": "Meep",
-    "site": "https://www.meep.cloud/"
+    "site": "https://www.meep.cloud/",
+    "concluido": false
   },
   {
+    "id": 240,
     "empresa": "Conexa Saude",
-    "site": "https://www.conexasaude.com.br/"
+    "site": "https://www.conexasaude.com.br/",
+    "concluido": false
   },
   {
+    "id": 241,
     "empresa": "Pin People",
-    "site": "https://www.pinpeople.com.br/"
+    "site": "https://www.pinpeople.com.br/",
+    "concluido": false
   },
   {
+    "id": 242,
     "empresa": "4MDG",
-    "site": "https://www.4mdg.com.br/#b891"
+    "site": "https://www.4mdg.com.br/#b891",
+    "concluido": false
   },
   {
+    "id": 243,
     "empresa": "ds.marketing",
-    "site": "https://dsmarketing.com.br/"
+    "site": "https://dsmarketing.com.br/",
+    "concluido": false
   },
   {
+    "id": 244,
     "empresa": "Nvoip",
-    "site": "https://www.nvoip.com.br/"
+    "site": "https://www.nvoip.com.br/",
+    "concluido": false
   },
   {
+    "id": 245,
     "empresa": "Carenet Longevity",
-    "site": "http://www.carenet.com.br/"
+    "site": "http://www.carenet.com.br/",
+    "concluido": false
   },
   {
+    "id": 246,
     "empresa": "Arco Educacao",
-    "site": "http://www.arcoeducacao.com.br/"
+    "site": "http://www.arcoeducacao.com.br/",
+    "concluido": false
   },
   {
+    "id": 247,
     "empresa": "GeekHunter Brasil",
-    "site": "https://www.geekhunter.com.br/"
+    "site": "https://www.geekhunter.com.br/",
+    "concluido": false
   },
   {
+    "id": 248,
     "empresa": "Docket",
-    "site": "https://docket.com.br/"
+    "site": "https://docket.com.br/",
+    "concluido": false
   },
   {
+    "id": 249,
     "empresa": "AutoForce",
-    "site": "https://autoforce.com/"
+    "site": "https://autoforce.com/",
+    "concluido": false
   },
   {
+    "id": 250,
     "empresa": "Sinapse Finance",
-    "site": "https://sinapse.finance/"
+    "site": "https://sinapse.finance/",
+    "concluido": false
   },
   {
+    "id": 251,
     "empresa": "Quero 2 Pay",
-    "site": "https://www.quero2pay.com.br/"
+    "site": "https://www.quero2pay.com.br/",
+    "concluido": false
   },
   {
+    "id": 252,
     "empresa": "Finansystech",
-    "site": "https://www.finansystech.com.br/"
+    "site": "https://www.finansystech.com.br/",
+    "concluido": false
   },
   {
+    "id": 253,
     "empresa": "Anota AI",
-    "site": "https://anota.ai/"
+    "site": "https://anota.ai/",
+    "concluido": false
   },
   {
+    "id": 254,
     "empresa": "Montreal Oficial",
-    "site": "https://www.montreal.com.br/"
+    "site": "https://www.montreal.com.br/",
+    "concluido": false
   },
   {
+    "id": 255,
     "empresa": "Pier",
-    "site": "https://www.pier.digital/"
+    "site": "https://www.pier.digital/",
+    "concluido": false
   },
   {
+    "id": 256,
     "empresa": "SMILINK",
-    "site": "https://www.smilink.com.br/"
+    "site": "https://www.smilink.com.br/",
+    "concluido": false
   },
   {
+    "id": 257,
     "empresa": "KPG S.A",
-    "site": "https://www.grupokpg.com/"
+    "site": "https://www.grupokpg.com/",
+    "concluido": false
   },
   {
+    "id": 258,
     "empresa": "Diel Energia",
-    "site": "https://www.dielenergia.com/"
+    "site": "https://www.dielenergia.com/",
+    "concluido": false
   },
   {
+    "id": 259,
     "empresa": "Kor Solutions",
-    "site": "https://kor.solutions/"
+    "site": "https://kor.solutions/",
+    "concluido": false
   },
   {
+    "id": 260,
     "empresa": "Linx",
-    "site": "https://www.linx.com.br/"
+    "site": "https://www.linx.com.br/",
+    "concluido": false
   },
   {
+    "id": 261,
     "empresa": "Labsoft Technology",
-    "site": "https://mylims.net/"
+    "site": "https://mylims.net/",
+    "concluido": false
   },
   {
+    "id": 262,
     "empresa": "Concil",
-    "site": "http://www.concil.com.br/"
+    "site": "http://www.concil.com.br/",
+    "concluido": false
   },
   {
+    "id": 263,
     "empresa": "PrimeSet",
-    "site": "https://www.primeset.com/"
+    "site": "https://www.primeset.com/",
+    "concluido": false
   },
   {
+    "id": 264,
     "empresa": "Síntese B2B",
-    "site": "https://www.plataformasintese.com/saude/EN/#"
+    "site": "https://www.plataformasintese.com/saude/EN/#",
+    "concluido": false
   },
   {
+    "id": 265,
     "empresa": "Embarca AI",
-    "site": "https://www.embarca.ai/"
+    "site": "https://www.embarca.ai/",
+    "concluido": false
   },
   {
+    "id": 266,
     "empresa": "Geofusion",
-    "site": "https://geofusion.com.br/"
+    "site": "https://geofusion.com.br/",
+    "concluido": false
   },
   {
+    "id": 267,
     "empresa": "Legiti",
-    "site": "https://www.legiti.com/"
+    "site": "https://www.legiti.com/",
+    "concluido": false
   },
   {
+    "id": 268,
     "empresa": "Clipescola",
-    "site": "https://www.clipescola.com/en/"
+    "site": "https://www.clipescola.com/en/",
+    "concluido": false
   },
   {
+    "id": 269,
     "empresa": "PhoneTrack",
-    "site": "http://www.phonetrack.com.br/"
+    "site": "http://www.phonetrack.com.br/",
+    "concluido": false
   },
   {
+    "id": 270,
     "empresa": "ISA Saúde",
-    "site": "https://isalab.com.br/"
+    "site": "https://isalab.com.br/",
+    "concluido": false
   },
   {
+    "id": 271,
     "empresa": "Spark Influencer Marketing Power House",
-    "site": "http://www.createspark.com.br/"
+    "site": "http://www.createspark.com.br/",
+    "concluido": false
   },
   {
+    "id": 272,
     "empresa": "Agrotools",
-    "site": "https://www.agrotools.com.br/"
+    "site": "https://www.agrotools.com.br/",
+    "concluido": false
   },
   {
+    "id": 273,
     "empresa": "Mooh Tech Desenvolvimento de Softwares",
-    "site": "http://www.moohtech.com/"
+    "site": "http://www.moohtech.com/",
+    "concluido": false
   },
   {
+    "id": 274,
     "empresa": "Lexos Tecnologia",
-    "site": "https://www.lexos.com.br/"
+    "site": "https://www.lexos.com.br/",
+    "concluido": false
   },
   {
+    "id": 275,
     "empresa": "Konduto",
-    "site": "https://www.konduto.com/"
+    "site": "https://www.konduto.com/",
+    "concluido": false
   },
   {
+    "id": 276,
     "empresa": "EcoTrust",
-    "site": "https://www.ecotrust.io/"
+    "site": "https://www.ecotrust.io/",
+    "concluido": false
   },
   {
+    "id": 277,
     "empresa": "InChurch",
-    "site": "https://www.inchurch.com.br/"
+    "site": "https://www.inchurch.com.br/",
+    "concluido": false
   },
   {
+    "id": 278,
     "empresa": "Hiper",
-    "site": "https://hiper.com.br/"
+    "site": "https://hiper.com.br/",
+    "concluido": false
   },
   {
+    "id": 279,
     "empresa": "Noverde",
-    "site": "http://www.noverde.com.br/"
+    "site": "http://www.noverde.com.br/",
+    "concluido": false
   },
   {
+    "id": 280,
     "empresa": "RoutEasy",
-    "site": "https://www.routeasy.com.br/"
+    "site": "https://www.routeasy.com.br/",
+    "concluido": false
   },
   {
+    "id": 281,
     "empresa": "D1",
-    "site": "https://d1.cx/"
+    "site": "https://d1.cx/",
+    "concluido": false
   },
   {
+    "id": 282,
     "empresa": "Pulse Solution",
-    "site": "https://pulsesolution.com/"
+    "site": "https://pulsesolution.com/",
+    "concluido": false
   },
   {
+    "id": 283,
     "empresa": "Nilo Saúde",
-    "site": "https://www.nilosaude.com.br/"
+    "site": "https://www.nilosaude.com.br/",
+    "concluido": false
   },
   {
+    "id": 284,
     "empresa": "SolarZ",
-    "site": "https://www.solarz.com.br/"
+    "site": "https://www.solarz.com.br/",
+    "concluido": false
   },
   {
+    "id": 285,
     "empresa": "Nerus",
-    "site": "https://nerus.com.br/"
+    "site": "https://nerus.com.br/",
+    "concluido": false
   },
   {
+    "id": 286,
     "empresa": "Manusis 4.0",
-    "site": "https://manusis4.com/"
+    "site": "https://manusis4.com/",
+    "concluido": false
   },
   {
+    "id": 287,
     "empresa": "Cinnecta",
-    "site": "http://www.cinnecta.com/"
+    "site": "http://www.cinnecta.com/",
+    "concluido": false
   },
   {
+    "id": 288,
     "empresa": "Mercos",
-    "site": "https://mercos.com/"
+    "site": "https://mercos.com/",
+    "concluido": false
   },
   {
+    "id": 289,
     "empresa": "EADBOX",
-    "site": "http://eadbox.com/"
+    "site": "http://eadbox.com/",
+    "concluido": false
   },
   {
+    "id": 290,
     "empresa": "NEC",
-    "site": "https://br.nec.com/"
+    "site": "https://br.nec.com/",
+    "concluido": false
   },
   {
+    "id": 291,
     "empresa": "In Forma Software",
-    "site": "http://www.informa.com.br/"
+    "site": "http://www.informa.com.br/",
+    "concluido": false
   },
   {
+    "id": 292,
     "empresa": "DevApi Tecnologia",
-    "site": "https://www.devapi.com.br/"
+    "site": "https://www.devapi.com.br/",
+    "concluido": false
   },
   {
+    "id": 293,
     "empresa": "LinkApi",
-    "site": "http://www.linkapi.solutions/"
+    "site": "http://www.linkapi.solutions/",
+    "concluido": false
   },
   {
+    "id": 294,
     "empresa": "TiqueTaque",
-    "site": "http://www.tiquetaque.com/"
+    "site": "http://www.tiquetaque.com/",
+    "concluido": false
   },
   {
+    "id": 295,
     "empresa": "MatchBox",
-    "site": "https://matchboxbrasil.com/"
+    "site": "https://matchboxbrasil.com/",
+    "concluido": false
   },
   {
+    "id": 296,
     "empresa": "Ilog Tecnologia",
-    "site": "http://www.ilog.com.br/"
+    "site": "http://www.ilog.com.br/",
+    "concluido": false
   },
   {
+    "id": 297,
     "empresa": "goFlux",
-    "site": "http://www.goflux.com.br/"
+    "site": "http://www.goflux.com.br/",
+    "concluido": false
   },
   {
+    "id": 298,
     "empresa": "Frst Falconi",
-    "site": "https://frstfalconi.com/"
+    "site": "https://frstfalconi.com/",
+    "concluido": false
   },
   {
+    "id": 299,
     "empresa": "HubChain",
-    "site": "https://hubchain.io/"
+    "site": "https://hubchain.io/",
+    "concluido": false
   },
   {
+    "id": 300,
     "empresa": "Exact Sales",
-    "site": "http://www.exactsales.com.br/"
+    "site": "http://www.exactsales.com.br/",
+    "concluido": false
   },
   {
+    "id": 301,
     "empresa": "Zygo",
-    "site": "https://zygotecnologia.com/"
+    "site": "https://zygotecnologia.com/",
+    "concluido": false
   },
   {
+    "id": 302,
     "empresa": "aftersale (Formerly Send4)",
-    "site": "https://after.sale/"
+    "site": "https://after.sale/",
+    "concluido": false
   },
   {
+    "id": 303,
     "empresa": "Atlas Governance",
-    "site": "http://www.atlasgov.com/"
+    "site": "http://www.atlasgov.com/",
+    "concluido": false
   },
   {
+    "id": 304,
     "empresa": "Coaser",
-    "site": "https://coaser.cloud/"
+    "site": "https://coaser.cloud/",
+    "concluido": false
   },
   {
+    "id": 305,
     "empresa": "ACURA",
-    "site": "https://www.acura.com.br/"
+    "site": "https://www.acura.com.br/",
+    "concluido": false
   },
   {
+    "id": 306,
     "empresa": "BBChain - Blockchain & Digital Assets",
-    "site": "https://www.bbchain.com.br/"
+    "site": "https://www.bbchain.com.br/",
+    "concluido": false
   },
   {
+    "id": 307,
     "empresa": "Agency Innovax",
-    "site": "https://agencyinnovax.tech/"
+    "site": "https://agencyinnovax.tech/",
+    "concluido": false
   },
   {
+    "id": 308,
     "empresa": "PixForce",
-    "site": "https://www.pixforce.com.br/pix-grid"
+    "site": "https://www.pixforce.com.br/pix-grid",
+    "concluido": false
   },
   {
+    "id": 309,
     "empresa": "Mobills",
-    "site": "http://www.mobills.com.br/"
+    "site": "http://www.mobills.com.br/",
+    "concluido": false
   },
   {
+    "id": 310,
     "empresa": "Planium",
-    "site": "https://www.planium.io/"
+    "site": "https://www.planium.io/",
+    "concluido": false
   },
   {
+    "id": 311,
     "empresa": "Growth Venture",
-    "site": "https://www.growthventure.com.br/"
+    "site": "https://www.growthventure.com.br/",
+    "concluido": false
   },
   {
+    "id": 312,
     "empresa": "Smartia",
-    "site": "https://www.smartia.com.br/"
+    "site": "https://www.smartia.com.br/",
+    "concluido": false
   },
   {
+    "id": 313,
     "empresa": "Produttivo",
-    "site": "http://www.produttivo.com.br/"
+    "site": "http://www.produttivo.com.br/",
+    "concluido": false
   },
   {
+    "id": 314,
     "empresa": "Courri",
-    "site": "http://vaidecourri.com/"
+    "site": "http://vaidecourri.com/",
+    "concluido": false
   },
   {
+    "id": 315,
     "empresa": "Beauty Date",
-    "site": "http://www.beautydate.com.br/"
+    "site": "http://www.beautydate.com.br/",
+    "concluido": false
   },
   {
+    "id": 316,
     "empresa": "Gal",
-    "site": "https://galsalao.com/"
+    "site": "https://galsalao.com/",
+    "concluido": false
   },
   {
+    "id": 317,
     "empresa": "TIVIT",
-    "site": "https://tivit.com/"
+    "site": "https://tivit.com/",
+    "concluido": false
   },
   {
+    "id": 318,
     "empresa": "Colab",
-    "site": "https://www.colab.com.br/sou-governo/"
+    "site": "https://www.colab.com.br/sou-governo/",
+    "concluido": false
   },
   {
+    "id": 319,
     "empresa": "Senior",
-    "site": "http://www.senior.com.br/"
+    "site": "http://www.senior.com.br/",
+    "concluido": false
   },
   {
+    "id": 320,
     "empresa": "Latitude.sh",
-    "site": "https://www.latitude.sh/"
+    "site": "https://www.latitude.sh/",
+    "concluido": false
   },
   {
+    "id": 321,
     "empresa": "Kanttum",
-    "site": "https://kanttum.com.br/"
+    "site": "https://kanttum.com.br/",
+    "concluido": false
   },
   {
+    "id": 322,
     "empresa": "Vagas.com",
-    "site": "http://www.vagas.com.br/"
+    "site": "http://www.vagas.com.br/",
+    "concluido": false
   },
   {
+    "id": 323,
     "empresa": "Smarkets",
-    "site": "https://www.smarkets.com.br/"
+    "site": "https://www.smarkets.com.br/",
+    "concluido": false
   },
   {
+    "id": 324,
     "empresa": "Delivery Direto",
-    "site": "https://deliverydireto.com.br/"
+    "site": "https://deliverydireto.com.br/",
+    "concluido": false
   },
   {
+    "id": 325,
     "empresa": "PTI",
-    "site": "https://www.pti.org.br/"
+    "site": "https://www.pti.org.br/",
+    "concluido": false
   },
   {
+    "id": 326,
     "empresa": "Akmey Biotecnologia Têxtil",
-    "site": "http://www.akmey.com.br/"
+    "site": "http://www.akmey.com.br/",
+    "concluido": false
   },
   {
+    "id": 327,
     "empresa": "Viridis Energy",
-    "site": "https://viridis.energy/"
+    "site": "https://viridis.energy/",
+    "concluido": false
   },
   {
+    "id": 328,
     "empresa": "Pulses",
-    "site": "https://www.pulses.com.br/"
+    "site": "https://www.pulses.com.br/",
+    "concluido": false
   },
   {
+    "id": 329,
     "empresa": "ProRadis",
-    "site": "http://www.proradis.com.br/"
+    "site": "http://www.proradis.com.br/",
+    "concluido": false
   },
   {
+    "id": 330,
     "empresa": "Aker Security Solutions",
-    "site": "http://www.aker.com.br/en/"
+    "site": "http://www.aker.com.br/en/",
+    "concluido": false
   },
   {
+    "id": 331,
     "empresa": "Active Sales",
-    "site": "http://site.activesales.com.br/"
+    "site": "http://site.activesales.com.br/",
+    "concluido": false
   },
   {
+    "id": 332,
     "empresa": "EZ Commerce",
-    "site": "http://www.ezcommerce.com.br/"
+    "site": "http://www.ezcommerce.com.br/",
+    "concluido": false
   },
   {
+    "id": 333,
     "empresa": "ALavadeira",
-    "site": "https://www.alavadeira.com/"
+    "site": "https://www.alavadeira.com/",
+    "concluido": false
   },
   {
+    "id": 334,
     "empresa": "Visent",
-    "site": "http://www.visent.com.br/en/the-company/"
+    "site": "http://www.visent.com.br/en/the-company/",
+    "concluido": false
   },
   {
+    "id": 335,
     "empresa": "MV Sistemas",
-    "site": "http://www.mv.com.br/"
+    "site": "http://www.mv.com.br/",
+    "concluido": false
   },
   {
+    "id": 336,
     "empresa": "Gameloch Publisher Global",
-    "site": "https://www.gamelouch.com/"
+    "site": "https://www.gamelouch.com/",
+    "concluido": false
   },
   {
+    "id": 337,
     "empresa": "MIGNOW",
-    "site": "https://mig-now.com/"
+    "site": "https://mig-now.com/",
+    "concluido": false
   },
   {
+    "id": 338,
     "empresa": "TOTVS",
-    "site": "http://www.totvs.com/"
+    "site": "http://www.totvs.com/",
+    "concluido": false
   },
   {
+    "id": 339,
     "empresa": "Dataprev",
-    "site": "https://www.dataprev.gov.br/"
+    "site": "https://www.dataprev.gov.br/",
+    "concluido": false
   },
   {
+    "id": 340,
     "empresa": "SoftExpert",
-    "site": "https://www.softexpert.com/"
+    "site": "https://www.softexpert.com/",
+    "concluido": false
   },
   {
+    "id": 341,
     "empresa": "Nexa Tecnologia",
-    "site": "https://www.nexa.com.br/"
+    "site": "https://www.nexa.com.br/",
+    "concluido": false
   },
   {
+    "id": 342,
     "empresa": "Grafeno",
-    "site": "https://grafeno.digital/"
+    "site": "https://grafeno.digital/",
+    "concluido": false
   },
   {
+    "id": 343,
     "empresa": "Citizen Experience",
-    "site": "https://cixbrasil.com/"
+    "site": "https://cixbrasil.com/",
+    "concluido": false
   },
   {
+    "id": 344,
     "empresa": "Serasa Experian",
-    "site": "https://www.serasaexperian.com.br/"
+    "site": "https://www.serasaexperian.com.br/",
+    "concluido": false
   },
   {
+    "id": 345,
     "empresa": "NSTech",
-    "site": "https://www.nstech.com.br/"
+    "site": "https://www.nstech.com.br/",
+    "concluido": false
   },
   {
+    "id": 346,
     "empresa": "Claranet Brasil",
-    "site": "https://br.claranet.com/"
+    "site": "https://br.claranet.com/",
+    "concluido": false
   },
   {
+    "id": 347,
     "empresa": "ARISTA",
-    "site": "https://www.arista.com.br/"
+    "site": "https://www.arista.com.br/",
+    "concluido": false
   },
   {
+    "id": 348,
     "empresa": "Dedalus",
-    "site": "http://www.dedalus.com.br/"
+    "site": "http://www.dedalus.com.br/",
+    "concluido": false
   },
   {
+    "id": 349,
     "empresa": "Compass UOL",
-    "site": "https://compass.uol/en/home/"
+    "site": "https://compass.uol/en/home/",
+    "concluido": false
   },
   {
+    "id": 350,
     "empresa": "Getty/IO",
-    "site": "https://getty.io/"
+    "site": "https://getty.io/",
+    "concluido": false
   },
   {
+    "id": 351,
     "empresa": "DTI Digital",
-    "site": "https://www.dtidigital.com.br/"
+    "site": "https://www.dtidigital.com.br/",
+    "concluido": false
   },
   {
+    "id": 352,
     "empresa": "Padtec",
-    "site": "http://www.padtec.com/"
+    "site": "http://www.padtec.com/",
+    "concluido": false
   },
   {
+    "id": 353,
     "empresa": "Olby",
-    "site": "https://www.olby.com/"
+    "site": "https://www.olby.com/",
+    "concluido": false
   },
   {
+    "id": 354,
     "empresa": "Eaton",
-    "site": "https://www.eaton.com/br/pt-br.html"
+    "site": "https://www.eaton.com/br/pt-br.html",
+    "concluido": false
   },
   {
+    "id": 355,
     "empresa": "Sem Parar",
-    "site": "http://www.semparar.com.br/"
+    "site": "http://www.semparar.com.br/",
+    "concluido": false
   },
   {
+    "id": 356,
     "empresa": "PartnerOne",
-    "site": "https://www.partnerone.com.br/"
+    "site": "https://www.partnerone.com.br/",
+    "concluido": false
   },
   {
+    "id": 357,
     "empresa": "SERPRO",
-    "site": "http://www.serpro.gov.br/"
+    "site": "http://www.serpro.gov.br/",
+    "concluido": false
   },
   {
+    "id": 358,
     "empresa": "Nexaas",
-    "site": "http://nexaas.com/"
+    "site": "http://nexaas.com/",
+    "concluido": false
   },
   {
+    "id": 359,
     "empresa": "MC1 Global",
-    "site": "http://www.mc1global.com/"
+    "site": "http://www.mc1global.com/",
+    "concluido": false
   },
   {
+    "id": 360,
     "empresa": "nuvini",
-    "site": "https://nuvini.com.br/"
+    "site": "https://nuvini.com.br/",
+    "concluido": false
   },
   {
+    "id": 361,
     "empresa": "Act Digital",
-    "site": "https://actdigital.com/en"
+    "site": "https://actdigital.com/en",
+    "concluido": false
   },
   {
+    "id": 362,
     "empresa": "Alura Cursos Online",
-    "site": "https://www.alura.com.br/"
+    "site": "https://www.alura.com.br/",
+    "concluido": false
   },
   {
+    "id": 363,
     "empresa": "TownSq",
-    "site": "https://www.townsq.com.br/"
+    "site": "https://www.townsq.com.br/",
+    "concluido": false
   },
   {
+    "id": 364,
     "empresa": "LG lugar de gente",
-    "site": "http://www.lg.com.br/"
+    "site": "http://www.lg.com.br/",
+    "concluido": false
   },
   {
+    "id": 365,
     "empresa": "Clinicorp",
-    "site": "https://www.clinicorp.com/"
+    "site": "https://www.clinicorp.com/",
+    "concluido": false
   },
   {
+    "id": 366,
     "empresa": "e-Core",
-    "site": "http://www.e-core.com/"
+    "site": "http://www.e-core.com/",
+    "concluido": false
   },
   {
+    "id": 367,
     "empresa": "Octadesk",
-    "site": "http://www.octadesk.com/"
+    "site": "http://www.octadesk.com/",
+    "concluido": false
   },
   {
+    "id": 368,
     "empresa": "BraisCompany",
-    "site": "https://braiscompany.com/"
+    "site": "https://braiscompany.com/",
+    "concluido": false
   },
   {
+    "id": 369,
     "empresa": "iClinic",
-    "site": "https://iclinic.com.br/"
+    "site": "https://iclinic.com.br/",
+    "concluido": false
   },
   {
+    "id": 370,
     "empresa": "KingHost",
-    "site": "https://king.host/"
+    "site": "https://king.host/",
+    "concluido": false
   },
   {
+    "id": 371,
     "empresa": "Alterdata Software",
-    "site": "https://www.alterdata.com.br/"
+    "site": "https://www.alterdata.com.br/",
+    "concluido": false
   },
   {
+    "id": 372,
     "empresa": "CROWD",
-    "site": "https://crowd.br.com/en/"
+    "site": "https://crowd.br.com/en/",
+    "concluido": false
   },
   {
+    "id": 373,
     "empresa": "Kirvano",
-    "site": "https://www.kirvano.com/"
+    "site": "https://www.kirvano.com/",
+    "concluido": false
   },
   {
+    "id": 374,
     "empresa": "Pixeon",
-    "site": "http://pixeon.com/"
+    "site": "http://pixeon.com/",
+    "concluido": false
   },
   {
+    "id": 375,
     "empresa": "Sankhya Tecnologia em Sistemas",
-    "site": "https://www.sankhya.com.br/"
+    "site": "https://www.sankhya.com.br/",
+    "concluido": false
   },
   {
+    "id": 376,
     "empresa": "Kolab",
-    "site": "https://kolab.com.br/"
+    "site": "https://kolab.com.br/",
+    "concluido": false
   },
   {
+    "id": 377,
     "empresa": "Sinqia",
-    "site": "https://www.sinqia.com.br/"
+    "site": "https://www.sinqia.com.br/",
+    "concluido": false
   },
   {
+    "id": 378,
     "empresa": "BRQ",
-    "site": "http://www.brq.com/"
+    "site": "http://www.brq.com/",
+    "concluido": false
   },
   {
+    "id": 379,
     "empresa": "Algar Telecom",
-    "site": "http://www.algartelecom.com.br/"
+    "site": "http://www.algartelecom.com.br/",
+    "concluido": false
   },
   {
+    "id": 380,
     "empresa": "Sigga",
-    "site": "http://www.sigga.com/"
+    "site": "http://www.sigga.com/",
+    "concluido": false
   },
   {
+    "id": 381,
     "empresa": "3Structure",
-    "site": "https://3structure.com.br/"
+    "site": "https://3structure.com.br/",
+    "concluido": false
   },
   {
+    "id": 382,
     "empresa": "Distrito",
-    "site": "https://www.distrito.me/"
+    "site": "https://www.distrito.me/",
+    "concluido": false
   },
   {
+    "id": 383,
     "empresa": "Geekie",
-    "site": "http://www.geekie.com.br/"
+    "site": "http://www.geekie.com.br/",
+    "concluido": false
   },
   {
+    "id": 384,
     "empresa": "Mercado Eletrônico",
-    "site": "http://mercadoeletronico.biz/"
+    "site": "http://mercadoeletronico.biz/",
+    "concluido": false
   },
   {
+    "id": 385,
     "empresa": "Wizard by Pearson",
-    "site": "https://www.wizard.com.br/"
+    "site": "https://www.wizard.com.br/",
+    "concluido": false
   },
   {
+    "id": 386,
     "empresa": "BigData Corp.",
-    "site": "https://www.bigdatacorp.com.br/"
+    "site": "https://www.bigdatacorp.com.br/",
+    "concluido": false
   },
   {
+    "id": 387,
     "empresa": "Valid S.A",
-    "site": "https://www.valid.com/en/"
+    "site": "https://www.valid.com/en/",
+    "concluido": false
   },
   {
+    "id": 388,
     "empresa": "Hyperlocal",
-    "site": "https://hyperlocal.com.br/"
+    "site": "https://hyperlocal.com.br/",
+    "concluido": false
   },
   {
+    "id": 389,
     "empresa": "Dito CRM",
-    "site": "http://www.dito.com.br/"
+    "site": "http://www.dito.com.br/",
+    "concluido": false
   },
   {
+    "id": 390,
     "empresa": "Take",
-    "site": "http://www.take.net/"
+    "site": "http://www.take.net/",
+    "concluido": false
   },
   {
+    "id": 391,
     "empresa": "Luiza Labs",
-    "site": "https://www.luizalabs.com/"
+    "site": "https://www.luizalabs.com/",
+    "concluido": false
   },
   {
+    "id": 392,
     "empresa": "Novonor",
-    "site": "https://www.novonor.com.br/pt-br"
+    "site": "https://www.novonor.com.br/pt-br",
+    "concluido": false
   },
   {
+    "id": 393,
     "empresa": "Zup Innovation",
-    "site": "https://www.zup.com.br/"
+    "site": "https://www.zup.com.br/",
+    "concluido": false
   },
   {
+    "id": 394,
     "empresa": "Eduzz",
-    "site": "https://www.eduzz.com/"
+    "site": "https://www.eduzz.com/",
+    "concluido": false
   },
   {
+    "id": 395,
     "empresa": "Webmotors",
-    "site": "https://www.webmotors.com.br/"
+    "site": "https://www.webmotors.com.br/",
+    "concluido": false
   },
   {
+    "id": 396,
     "empresa": "Simpress",
-    "site": "https://www.simpress.com.br/"
+    "site": "https://www.simpress.com.br/",
+    "concluido": false
   },
   {
+    "id": 397,
     "empresa": "BEES",
-    "site": "https://www.bees.com/"
+    "site": "https://www.bees.com/",
+    "concluido": false
   },
   {
+    "id": 398,
     "empresa": "VExpenses",
-    "site": "https://vexpenses.com/"
+    "site": "https://vexpenses.com/",
+    "concluido": false
   },
   {
+    "id": 399,
     "empresa": "Mutant",
-    "site": "https://mutantbr.com/"
+    "site": "https://mutantbr.com/",
+    "concluido": false
   },
   {
+    "id": 400,
     "empresa": "Compasso UOL",
-    "site": "https://compass.uol/en/home/"
+    "site": "https://compass.uol/en/home/",
+    "concluido": false
   },
   {
+    "id": 401,
     "empresa": "Apura",
-    "site": "http://apura.com.br/"
+    "site": "http://apura.com.br/",
+    "concluido": false
   },
   {
+    "id": 402,
     "empresa": "Senai Cimatec",
-    "site": "http://www.senaicimatec.com.br/en/"
+    "site": "http://www.senaicimatec.com.br/en/",
+    "concluido": false
   },
   {
+    "id": 403,
     "empresa": "Oowlish",
-    "site": "https://www.oowlish.com/"
+    "site": "https://www.oowlish.com/",
+    "concluido": false
   },
   {
+    "id": 404,
     "empresa": "Afterverse",
-    "site": "https://afterverse.com/"
+    "site": "https://afterverse.com/",
+    "concluido": false
   },
   {
+    "id": 405,
     "empresa": "Finch Solutions",
-    "site": "https://finchsolucoes.com.br/"
+    "site": "https://finchsolucoes.com.br/",
+    "concluido": false
   },
   {
+    "id": 406,
     "empresa": "Weni",
-    "site": "https://weni.ai/"
+    "site": "https://weni.ai/",
+    "concluido": false
   },
   {
+    "id": 407,
     "empresa": "ARQIA Datora",
-    "site": "https://arqia.com.br/"
+    "site": "https://arqia.com.br/",
+    "concluido": false
   },
   {
+    "id": 408,
     "empresa": "Boa Vista",
-    "site": "https://www.boavistaservicos.com.br/"
+    "site": "https://www.boavistaservicos.com.br/",
+    "concluido": false
   },
   {
+    "id": 409,
     "empresa": "Rocketseat",
-    "site": "https://rocketseat.com.br/"
+    "site": "https://rocketseat.com.br/",
+    "concluido": false
   },
   {
+    "id": 410,
     "empresa": "Certisign",
-    "site": "https://www.certisign.com.br/"
+    "site": "https://www.certisign.com.br/",
+    "concluido": false
   },
   {
+    "id": 411,
     "empresa": "Otom",
-    "site": "http://www.otom.com.br/"
+    "site": "http://www.otom.com.br/",
+    "concluido": false
   },
   {
+    "id": 412,
     "empresa": "Quero Education",
-    "site": "http://querobolsa.com.br/"
+    "site": "http://querobolsa.com.br/",
+    "concluido": false
   },
   {
+    "id": 413,
     "empresa": "Aurum Software",
-    "site": "http://www.aurum.com.br/"
+    "site": "http://www.aurum.com.br/",
+    "concluido": false
   },
   {
+    "id": 414,
     "empresa": "ília",
-    "site": "https://ilia.digital/en/"
+    "site": "https://ilia.digital/en/",
+    "concluido": false
   },
   {
+    "id": 415,
     "empresa": "Positivo Tecnologia",
-    "site": "https://www.positivotecnologia.com.br/"
+    "site": "https://www.positivotecnologia.com.br/",
+    "concluido": false
   },
   {
+    "id": 416,
     "empresa": "RNP",
-    "site": "https://www.rnp.br/"
+    "site": "https://www.rnp.br/",
+    "concluido": false
   },
   {
+    "id": 417,
     "empresa": "Alle",
-    "site": "https://www.somosalle.com.br/"
+    "site": "https://www.somosalle.com.br/",
+    "concluido": false
   },
   {
+    "id": 418,
     "empresa": "Amplimed",
-    "site": "https://www.amplimed.com.br/"
+    "site": "https://www.amplimed.com.br/",
+    "concluido": false
   },
   {
+    "id": 419,
     "empresa": "Fast Shop",
-    "site": "https://www.fastshop.com.br/"
+    "site": "https://www.fastshop.com.br/",
+    "concluido": false
   },
   {
+    "id": 420,
     "empresa": "Delivery Much SA",
-    "site": "https://www.deliverymuch.com.br/"
+    "site": "https://www.deliverymuch.com.br/",
+    "concluido": false
   },
   {
+    "id": 421,
     "empresa": "PontoTel",
-    "site": "https://www.pontotel.com.br/"
+    "site": "https://www.pontotel.com.br/",
+    "concluido": false
   },
   {
+    "id": 422,
     "empresa": "Kumulus",
-    "site": "https://www.kumulus.com.br/"
+    "site": "https://www.kumulus.com.br/",
+    "concluido": false
   },
   {
+    "id": 423,
     "empresa": "Rappi Brasil",
-    "site": "https://www.rappi.com.br/"
+    "site": "https://www.rappi.com.br/",
+    "concluido": false
   },
   {
+    "id": 424,
     "empresa": "SuperFrete",
-    "site": "https://www.superfrete.com/"
+    "site": "https://www.superfrete.com/",
+    "concluido": false
   },
   {
+    "id": 425,
     "empresa": "Apontador Busca Local",
-    "site": "https://www.apontador.com.br/"
+    "site": "https://www.apontador.com.br/",
+    "concluido": false
   },
   {
+    "id": 426,
     "empresa": "Gaivota",
-    "site": "https://www.gaivota.ai/"
+    "site": "https://www.gaivota.ai/",
+    "concluido": false
   },
   {
+    "id": 427,
     "empresa": "Escala",
-    "site": "https://escala.app/"
+    "site": "https://escala.app/",
+    "concluido": false
   },
   {
+    "id": 428,
     "empresa": "PrimeUp",
-    "site": "https://www.primeup.com.br/"
+    "site": "https://www.primeup.com.br/",
+    "concluido": false
   },
   {
+    "id": 429,
     "empresa": "Educacional",
-    "site": "https://educacional.com.br/"
+    "site": "https://educacional.com.br/",
+    "concluido": false
   },
   {
+    "id": 430,
     "empresa": "Asper Tecnologia",
-    "site": "https://asper.tec.br/"
+    "site": "https://asper.tec.br/",
+    "concluido": false
   },
   {
+    "id": 431,
     "empresa": "Reserva",
-    "site": "https://www.usereserva.com/"
+    "site": "https://www.usereserva.com/",
+    "concluido": false
   },
   {
+    "id": 432,
     "empresa": "Qintess",
-    "site": "https://qintess.com/"
+    "site": "https://qintess.com/",
+    "concluido": false
   },
   {
+    "id": 433,
     "empresa": "Tek-System",
-    "site": "https://homepage.teksystem.com.br/"
+    "site": "https://homepage.teksystem.com.br/",
+    "concluido": false
   },
   {
+    "id": 434,
     "empresa": "Lotus ICT",
-    "site": "https://www.lotusict.com/"
+    "site": "https://www.lotusict.com/",
+    "concluido": false
   },
   {
+    "id": 435,
     "empresa": "Infobase",
-    "site": "http://www.infobase.com.br/"
+    "site": "http://www.infobase.com.br/",
+    "concluido": false
   },
   {
+    "id": 436,
     "empresa": "FCamara Consulting & Training",
-    "site": "https://fcamara.com.br/"
+    "site": "https://fcamara.com.br/",
+    "concluido": false
   },
   {
+    "id": 437,
     "empresa": "Portal Educação",
-    "site": "http://www.portaleducacao.com.br/"
+    "site": "http://www.portaleducacao.com.br/",
+    "concluido": false
   },
   {
+    "id": 438,
     "empresa": "ARMOR IIMAK",
-    "site": "https://iimak.com.br/"
+    "site": "https://iimak.com.br/",
+    "concluido": false
   },
   {
+    "id": 439,
     "empresa": "Vertem",
-    "site": "https://vertem.com/"
+    "site": "https://vertem.com/",
+    "concluido": false
   },
   {
+    "id": 440,
     "empresa": "Sette",
-    "site": "https://www.sette.ag/"
+    "site": "https://www.sette.ag/",
+    "concluido": false
   },
   {
+    "id": 441,
     "empresa": "Techtrials - Healthcare Data Science",
-    "site": "https://www.ttrials.com/"
+    "site": "https://www.ttrials.com/",
+    "concluido": false
   },
   {
+    "id": 442,
     "empresa": "BRITech",
-    "site": "https://britech.global/"
+    "site": "https://britech.global/",
+    "concluido": false
   },
   {
+    "id": 443,
     "empresa": "Cadastra",
-    "site": "https://cadastra.com/en"
+    "site": "https://cadastra.com/en",
+    "concluido": false
   },
   {
+    "id": 444,
     "empresa": "Grupo Primo",
-    "site": "https://oprimorico.com.br/"
+    "site": "https://oprimorico.com.br/",
+    "concluido": false
   },
   {
+    "id": 445,
     "empresa": "Go2neXt",
-    "site": "http://www.go2next.com.br/"
+    "site": "http://www.go2next.com.br/",
+    "concluido": false
   },
   {
+    "id": 446,
     "empresa": "Kaynes",
-    "site": "https://www.kaynes.com/"
+    "site": "https://www.kaynes.com/",
+    "concluido": false
   },
   {
+    "id": 447,
     "empresa": "Cadmus",
-    "site": "http://www.cadmus.com.br/"
+    "site": "http://www.cadmus.com.br/",
+    "concluido": false
   },
   {
+    "id": 448,
     "empresa": "M4U",
-    "site": "http://www.m4u.com.br/"
+    "site": "http://www.m4u.com.br/",
+    "concluido": false
   },
   {
+    "id": 449,
     "empresa": "Camino Education",
-    "site": "https://caminoeducation.com/"
+    "site": "https://caminoeducation.com/",
+    "concluido": false
   },
   {
+    "id": 450,
     "empresa": "SumUp Payments",
-    "site": "https://www.sumup.com.br/"
+    "site": "https://www.sumup.com.br/",
+    "concluido": false
   },
   {
+    "id": 451,
     "empresa": "Milvus",
-    "site": "https://milvus.com.br/"
+    "site": "https://milvus.com.br/",
+    "concluido": false
   },
   {
+    "id": 452,
     "empresa": "Sjc Bioenergia Ltd",
-    "site": "https://www.sjcbioenergia.com.br/"
+    "site": "https://www.sjcbioenergia.com.br/",
+    "concluido": false
   },
   {
+    "id": 453,
     "empresa": "ST-One",
-    "site": "https://st-one.io/"
+    "site": "https://st-one.io/",
+    "concluido": false
   },
   {
+    "id": 454,
     "empresa": "Neurotech",
-    "site": "https://geton.store/neurotest/"
+    "site": "https://geton.store/neurotest/",
+    "concluido": false
   },
   {
+    "id": 455,
     "empresa": "WORLDTEL",
-    "site": "https://worldtel.com.br/"
+    "site": "https://worldtel.com.br/",
+    "concluido": false
   },
   {
+    "id": 456,
     "empresa": "Vnda",
-    "site": "https://www.vnda.com.br/"
+    "site": "https://www.vnda.com.br/",
+    "concluido": false
   },
   {
+    "id": 457,
     "empresa": "HST",
-    "site": "https://www.hst.com.br/"
+    "site": "https://www.hst.com.br/",
+    "concluido": false
   },
   {
+    "id": 458,
     "empresa": "NAVA",
-    "site": "https://nava.com.br/"
+    "site": "https://nava.com.br/",
+    "concluido": false
   },
   {
+    "id": 459,
     "empresa": "Tron Informática",
-    "site": "https://www.tron.com.br/"
+    "site": "https://www.tron.com.br/",
+    "concluido": false
   },
   {
+    "id": 460,
     "empresa": "Techmail",
-    "site": "https://techmail.com.br/"
+    "site": "https://techmail.com.br/",
+    "concluido": false
   },
   {
+    "id": 461,
     "empresa": "Extreme Digital Solutions",
-    "site": "https://www.extremedigital.com.br/"
+    "site": "https://www.extremedigital.com.br/",
+    "concluido": false
   },
   {
+    "id": 462,
     "empresa": "VoxAge",
-    "site": "http://www.voxage.com.br/"
+    "site": "http://www.voxage.com.br/",
+    "concluido": false
   },
   {
+    "id": 463,
     "empresa": "Dynamox",
-    "site": "https://www.dynamox.net/"
+    "site": "https://www.dynamox.net/",
+    "concluido": false
   },
   {
+    "id": 464,
     "empresa": "Auto Avaliar",
-    "site": "https://www.autoavaliar.com.br/"
+    "site": "https://www.autoavaliar.com.br/",
+    "concluido": false
   },
   {
+    "id": 465,
     "empresa": "Vivere Brasil Soluções De Crédito Ltda.",
-    "site": "http://www.viverebrasil.com.br/"
+    "site": "http://www.viverebrasil.com.br/",
+    "concluido": false
   },
   {
+    "id": 466,
     "empresa": "Peixe Urbano",
-    "site": "http://www.peixeurbano.com.br/"
+    "site": "http://www.peixeurbano.com.br/",
+    "concluido": false
   },
   {
+    "id": 467,
     "empresa": "Segfy",
-    "site": "https://www.segfy.com/"
+    "site": "https://www.segfy.com/",
+    "concluido": false
   },
   {
+    "id": 468,
     "empresa": "Dootax",
-    "site": "https://www.dootax.com.br/"
+    "site": "https://www.dootax.com.br/",
+    "concluido": false
   },
   {
+    "id": 469,
     "empresa": "Benner Sistemas",
-    "site": "http://www.benner.com.br/"
+    "site": "http://www.benner.com.br/",
+    "concluido": false
   },
   {
+    "id": 470,
     "empresa": "Syonet",
-    "site": "https://www.syonet.com/"
+    "site": "https://www.syonet.com/",
+    "concluido": false
   },
   {
+    "id": 471,
     "empresa": "Cateno",
-    "site": "https://www.cateno.com.br/"
+    "site": "https://www.cateno.com.br/",
+    "concluido": false
   },
   {
+    "id": 472,
     "empresa": "Central IT",
-    "site": "http://www.centralit.com.br/"
+    "site": "http://www.centralit.com.br/",
+    "concluido": false
   },
   {
+    "id": 473,
     "empresa": "SYDLE",
-    "site": "https://www.sydle.com/"
+    "site": "https://www.sydle.com/",
+    "concluido": false
   },
   {
+    "id": 474,
     "empresa": "Argo Solutions",
-    "site": "https://useargo.com/"
+    "site": "https://useargo.com/",
+    "concluido": false
   },
   {
+    "id": 475,
     "empresa": "levva",
-    "site": "https://levva.io/"
+    "site": "https://levva.io/",
+    "concluido": false
   },
   {
+    "id": 476,
     "empresa": "Quero Educacao",
-    "site": "https://sobre.quero.com/"
+    "site": "https://sobre.quero.com/",
+    "concluido": false
   },
   {
+    "id": 477,
     "empresa": "Sascar",
-    "site": "http://www.sascar.com.br/"
+    "site": "http://www.sascar.com.br/",
+    "concluido": false
   },
   {
+    "id": 478,
     "empresa": "Codeby",
-    "site": "https://codeby.global/en"
+    "site": "https://codeby.global/en",
+    "concluido": false
   },
   {
+    "id": 479,
     "empresa": "Scooto",
-    "site": "https://www.scooto.co/"
+    "site": "https://www.scooto.co/",
+    "concluido": false
   },
   {
+    "id": 480,
     "empresa": "Quod",
-    "site": "https://www.quod.com.br/"
+    "site": "https://www.quod.com.br/",
+    "concluido": false
   },
   {
+    "id": 481,
     "empresa": "Deal Technologies",
-    "site": "https://www.deal.com.br/"
+    "site": "https://www.deal.com.br/",
+    "concluido": false
   },
   {
+    "id": 482,
     "empresa": "Ubots",
-    "site": "http://ubots.com.br/"
+    "site": "http://ubots.com.br/",
+    "concluido": false
   },
   {
+    "id": 483,
     "empresa": "Ada",
-    "site": "https://ada.tech/"
+    "site": "https://ada.tech/",
+    "concluido": false
   },
   {
+    "id": 484,
     "empresa": "VHSYS",
-    "site": "http://vhsys.com.br/"
+    "site": "http://vhsys.com.br/",
+    "concluido": false
   },
   {
+    "id": 485,
     "empresa": "Software Express",
-    "site": "https://www.softwareexpress.com.br/"
+    "site": "https://www.softwareexpress.com.br/",
+    "concluido": false
   },
   {
+    "id": 486,
     "empresa": "Blockbit",
-    "site": "https://www.blockbit.com/"
+    "site": "https://www.blockbit.com/",
+    "concluido": false
   },
   {
+    "id": 487,
     "empresa": "Mercafacil",
-    "site": "https://www.mercafacil.com/"
+    "site": "https://www.mercafacil.com/",
+    "concluido": false
   },
   {
+    "id": 488,
     "empresa": "Vitta",
-    "site": "https://vitta.com.br/"
+    "site": "https://vitta.com.br/",
+    "concluido": false
   },
   {
+    "id": 489,
     "empresa": "Tutory",
-    "site": "https://tutory.com.br/"
+    "site": "https://tutory.com.br/",
+    "concluido": false
   },
   {
+    "id": 490,
     "empresa": "I.Systems",
-    "site": "http://www.i.systems.com.br/"
+    "site": "http://www.i.systems.com.br/",
+    "concluido": false
   },
   {
+    "id": 491,
     "empresa": "Ninecon",
-    "site": "https://www.ninecon.com.br/"
+    "site": "https://www.ninecon.com.br/",
+    "concluido": false
   },
   {
+    "id": 492,
     "empresa": "ChatGuru",
-    "site": "https://chatguru.com.br/"
+    "site": "https://chatguru.com.br/",
+    "concluido": false
   },
   {
+    "id": 493,
     "empresa": "Acordo Certo",
-    "site": "https://www.acordocerto.com.br/"
+    "site": "https://www.acordocerto.com.br/",
+    "concluido": false
   },
   {
+    "id": 494,
     "empresa": "D4Sign",
-    "site": "http://www.d4sign.com.br/"
+    "site": "http://www.d4sign.com.br/",
+    "concluido": false
   },
   {
+    "id": 495,
     "empresa": "MZ",
-    "site": "http://mzgroup.com/"
+    "site": "http://mzgroup.com/",
+    "concluido": false
   },
   {
+    "id": 496,
     "empresa": "Quality digital",
-    "site": "https://qualitydigital.global/"
+    "site": "https://qualitydigital.global/",
+    "concluido": false
   },
   {
+    "id": 497,
     "empresa": "FIEMG",
-    "site": "https://www7.fiemg.com.br/"
+    "site": "https://www7.fiemg.com.br/",
+    "concluido": false
   },
   {
+    "id": 498,
     "empresa": "Mattos Filho",
-    "site": "https://www.mattosfilho.com.br/"
+    "site": "https://www.mattosfilho.com.br/",
+    "concluido": false
   },
   {
+    "id": 499,
     "empresa": "Consulta Remédios",
-    "site": "https://consultaremedios.com.br/"
+    "site": "https://consultaremedios.com.br/",
+    "concluido": false
   },
   {
+    "id": 500,
     "empresa": "Metadados",
-    "site": "https://www.metadados.com.br/"
+    "site": "https://www.metadados.com.br/",
+    "concluido": false
   },
   {
+    "id": 501,
     "empresa": "Nexti",
-    "site": "https://nexti.com/s"
+    "site": "https://nexti.com/s",
+    "concluido": false
   },
   {
+    "id": 502,
     "empresa": "GESTO (acquired by DASA in Jan/2021)",
-    "site": "https://www.gesto.com.br/"
+    "site": "https://www.gesto.com.br/",
+    "concluido": false
   },
   {
+    "id": 503,
     "empresa": "Confederação Nacional da Indústria",
-    "site": "https://www.portaldaindustria.com.br/"
+    "site": "https://www.portaldaindustria.com.br/",
+    "concluido": false
   },
   {
+    "id": 504,
     "empresa": "Zallpy Digital",
-    "site": "https://www.zallpy.com/"
+    "site": "https://www.zallpy.com/",
+    "concluido": false
   },
   {
+    "id": 505,
     "empresa": "Finnet",
-    "site": "https://finnet.com.br/"
+    "site": "https://finnet.com.br/",
+    "concluido": false
   },
   {
+    "id": 506,
     "empresa": "Tempest",
-    "site": "https://www.tempest.com.br/"
+    "site": "https://www.tempest.com.br/",
+    "concluido": false
   },
   {
+    "id": 507,
     "empresa": "IT Patagonia",
-    "site": "https://www.itpatagonia.com/"
+    "site": "https://www.itpatagonia.com/",
+    "concluido": false
   },
   {
+    "id": 508,
     "empresa": "Yandeh",
-    "site": "https://www.yandeh.com.br/"
+    "site": "https://www.yandeh.com.br/",
+    "concluido": false
   },
   {
+    "id": 509,
     "empresa": "Cedro Technologies",
-    "site": "https://cedrotech.com/"
+    "site": "https://cedrotech.com/",
+    "concluido": false
   },
   {
+    "id": 510,
     "empresa": "Animati",
-    "site": "https://www.animati.com.br/"
+    "site": "https://www.animati.com.br/",
+    "concluido": false
   },
   {
+    "id": 511,
     "empresa": "K2 Software",
-    "site": "https://www.k2software.com.br/"
+    "site": "https://www.k2software.com.br/",
+    "concluido": false
   },
   {
+    "id": 512,
     "empresa": "Desk Manager",
-    "site": "http://deskmanager.com/"
+    "site": "http://deskmanager.com/",
+    "concluido": false
   },
   {
+    "id": 513,
     "empresa": "Dryve",
-    "site": "https://www.dryve.com.br/"
+    "site": "https://www.dryve.com.br/",
+    "concluido": false
   },
   {
+    "id": 514,
     "empresa": "Techouts",
-    "site": "http://techouts.com/"
+    "site": "http://techouts.com/",
+    "concluido": false
   },
   {
+    "id": 515,
     "empresa": "Estadao",
-    "site": "http://www.estadao.com.br/"
+    "site": "http://www.estadao.com.br/",
+    "concluido": false
   },
   {
+    "id": 516,
     "empresa": "Mtrix",
-    "site": "https://www.mtrix.com.br/"
+    "site": "https://www.mtrix.com.br/",
+    "concluido": false
   },
   {
+    "id": 517,
     "empresa": "OrcaFascio",
-    "site": "http://orcafascio.com/"
+    "site": "http://orcafascio.com/",
+    "concluido": false
   },
   {
+    "id": 518,
     "empresa": "Arlequim Technologies S/A",
-    "site": "https://arlequim.com/"
+    "site": "https://arlequim.com/",
+    "concluido": false
   },
   {
+    "id": 519,
     "empresa": "Hypeone",
-    "site": "https://hypeone.com.br/"
+    "site": "https://hypeone.com.br/",
+    "concluido": false
   },
   {
+    "id": 520,
     "empresa": "Elife",
-    "site": "http://elife.com.br/"
+    "site": "http://elife.com.br/",
+    "concluido": false
   },
   {
+    "id": 521,
     "empresa": "Invillia",
-    "site": "https://invillia.com/"
+    "site": "https://invillia.com/",
+    "concluido": false
   },
   {
+    "id": 522,
     "empresa": "Huggy",
-    "site": "https://huggy.io/"
+    "site": "https://huggy.io/",
+    "concluido": false
   },
   {
+    "id": 523,
     "empresa": "BS Tecnologia e Serviços",
-    "site": "https://bsservices.com.br/"
+    "site": "https://bsservices.com.br/",
+    "concluido": false
   },
   {
+    "id": 524,
     "empresa": "Smarthis",
-    "site": "https://smarthis.com/"
+    "site": "https://smarthis.com/",
+    "concluido": false
   },
   {
+    "id": 525,
     "empresa": "Attri",
-    "site": "https://www.attri.com.br/"
+    "site": "https://www.attri.com.br/",
+    "concluido": false
   },
   {
+    "id": 526,
     "empresa": "Ploomes",
-    "site": "https://www.ploomes.com/"
+    "site": "https://www.ploomes.com/",
+    "concluido": false
   },
   {
+    "id": 527,
     "empresa": "Pharma",
-    "site": "https://www.pharmaltda.com.br/"
+    "site": "https://www.pharmaltda.com.br/",
+    "concluido": false
   },
   {
+    "id": 528,
     "empresa": "Inmetrics",
-    "site": "http://www.inmetrics.com.br/"
+    "site": "http://www.inmetrics.com.br/",
+    "concluido": false
   },
   {
+    "id": 529,
     "empresa": "Control iD",
-    "site": "https://www.controlid.com.br/"
+    "site": "https://www.controlid.com.br/",
+    "concluido": false
   },
   {
+    "id": 530,
     "empresa": "Way2 Technology",
-    "site": "http://www.way2.com.br/"
+    "site": "http://www.way2.com.br/",
+    "concluido": false
   },
   {
+    "id": 531,
     "empresa": "Nortel",
-    "site": "https://www.nortel.com.br/"
+    "site": "https://www.nortel.com.br/",
+    "concluido": false
   },
   {
+    "id": 532,
     "empresa": "Tray",
-    "site": "http://www.tray.com.br/"
+    "site": "http://www.tray.com.br/",
+    "concluido": false
   },
   {
+    "id": 533,
     "empresa": "Oitchau",
-    "site": "https://www.oitchau.com.br/"
+    "site": "https://www.oitchau.com.br/",
+    "concluido": false
   },
   {
+    "id": 534,
     "empresa": "Nasajon Sistemas",
-    "site": "https://nasajon.com.br/"
+    "site": "https://nasajon.com.br/",
+    "concluido": false
   },
   {
+    "id": 535,
     "empresa": "Agasus",
-    "site": "http://www.agasus.com.br/"
+    "site": "http://www.agasus.com.br/",
+    "concluido": false
   },
   {
+    "id": 536,
     "empresa": "Teknisa",
-    "site": "https://www.teknisa.com/"
+    "site": "https://www.teknisa.com/",
+    "concluido": false
   },
   {
+    "id": 537,
     "empresa": "Aoop Cloud Solutions",
-    "site": "https://www.aoop.com.br/"
+    "site": "https://www.aoop.com.br/",
+    "concluido": false
   },
   {
+    "id": 538,
     "empresa": "Darede",
-    "site": "https://www.darede.com.br/"
+    "site": "https://www.darede.com.br/",
+    "concluido": false
   },
   {
+    "id": 539,
     "empresa": "Bluesoft",
-    "site": "https://www.bluesoft.com.br/"
+    "site": "https://www.bluesoft.com.br/",
+    "concluido": false
   },
   {
+    "id": 540,
     "empresa": "Prodemge",
-    "site": "https://www.prodemge.gov.br/"
+    "site": "https://www.prodemge.gov.br/",
+    "concluido": false
   },
   {
+    "id": 541,
     "empresa": "ETICE",
-    "site": "https://www.etice.ce.gov.br/"
+    "site": "https://www.etice.ce.gov.br/",
+    "concluido": false
   },
   {
+    "id": 542,
     "empresa": "Engeform",
-    "site": "https://www.engeform.com.br/"
+    "site": "https://www.engeform.com.br/",
+    "concluido": false
   },
   {
+    "id": 543,
     "empresa": "Mobiauto",
-    "site": "https://www.mobiauto.com.br/"
+    "site": "https://www.mobiauto.com.br/",
+    "concluido": false
   },
   {
+    "id": 544,
     "empresa": "Sem Processo",
-    "site": "https://www.semprocesso.com.br/"
+    "site": "https://www.semprocesso.com.br/",
+    "concluido": false
   },
   {
+    "id": 545,
     "empresa": "Caelum",
-    "site": "https://www.caelum.com.br/"
+    "site": "https://www.caelum.com.br/",
+    "concluido": false
   },
   {
+    "id": 546,
     "empresa": "AMcom Information Systems",
-    "site": "https://www.amcom.com.br/"
+    "site": "https://www.amcom.com.br/",
+    "concluido": false
   },
   {
+    "id": 547,
     "empresa": "MEI Fácil",
-    "site": "https://www.meifacil.com/"
+    "site": "https://www.meifacil.com/",
+    "concluido": false
   },
   {
+    "id": 548,
     "empresa": "Trinks.com",
-    "site": "https://www.trinks.com/"
+    "site": "https://www.trinks.com/",
+    "concluido": false
   },
   {
+    "id": 549,
     "empresa": "Elipse Software",
-    "site": "https://www.elipse.com.br/en"
+    "site": "https://www.elipse.com.br/en",
+    "concluido": false
   },
   {
+    "id": 550,
     "empresa": "DP6",
-    "site": "http://www.dp6.com.br/"
+    "site": "http://www.dp6.com.br/",
+    "concluido": false
   },
   {
+    "id": 551,
     "empresa": "Plusoft",
-    "site": "https://plusoft.com/"
+    "site": "https://plusoft.com/",
+    "concluido": false
   },
   {
+    "id": 552,
     "empresa": "Akiyama",
-    "site": "https://akiyama.com.br/en/"
+    "site": "https://akiyama.com.br/en/",
+    "concluido": false
   },
   {
+    "id": 553,
     "empresa": "Kurier",
-    "site": "https://kuriertecnologia.com.br/"
+    "site": "https://kuriertecnologia.com.br/",
+    "concluido": false
   },
   {
+    "id": 554,
     "empresa": "Getrak",
-    "site": "https://getrak.com.br/"
+    "site": "https://getrak.com.br/",
+    "concluido": false
   },
   {
+    "id": 555,
     "empresa": "Mandic",
-    "site": "http://www.mandic.com.br/"
+    "site": "http://www.mandic.com.br/",
+    "concluido": false
   },
   {
+    "id": 556,
     "empresa": "Alta Rail Technology",
-    "site": "http://www.alta-rt.com/"
+    "site": "http://www.alta-rt.com/",
+    "concluido": false
   },
   {
+    "id": 557,
     "empresa": "Segware",
-    "site": "https://www.segware.com/"
+    "site": "https://www.segware.com/",
+    "concluido": false
   },
   {
+    "id": 558,
     "empresa": "Cubos",
-    "site": "https://cubos.io/"
+    "site": "https://cubos.io/",
+    "concluido": false
   },
   {
+    "id": 559,
     "empresa": "Canal da Peça S.A.",
-    "site": "https://www.canaldapeca.com.br/"
+    "site": "https://www.canaldapeca.com.br/",
+    "concluido": false
   },
   {
+    "id": 560,
     "empresa": "INFLOR",
-    "site": "https://www.inflor.com/"
+    "site": "https://www.inflor.com/",
+    "concluido": false
   },
   {
+    "id": 561,
     "empresa": "StarSoft",
-    "site": "https://starsoft.com.br/"
+    "site": "https://starsoft.com.br/",
+    "concluido": false
   },
   {
+    "id": 562,
     "empresa": "Driva",
-    "site": "https://www.driva.io/"
+    "site": "https://www.driva.io/",
+    "concluido": false
   },
   {
+    "id": 563,
     "empresa": "UPX",
-    "site": "https://www.upx.com/"
+    "site": "https://www.upx.com/",
+    "concluido": false
   },
   {
+    "id": 564,
     "empresa": "Geopixel",
-    "site": "https://geopixel.com.br/"
+    "site": "https://geopixel.com.br/",
+    "concluido": false
   },
   {
+    "id": 565,
     "empresa": "Preâmbulo Tech",
-    "site": "https://preambulo.com.br/"
+    "site": "https://preambulo.com.br/",
+    "concluido": false
   },
   {
+    "id": 566,
     "empresa": "VR Software",
-    "site": "https://www.vrsoft.com.br/"
+    "site": "https://www.vrsoft.com.br/",
+    "concluido": false
   },
   {
+    "id": 567,
     "empresa": "IPM Sistemas",
-    "site": "https://www.ipm.com.br/"
+    "site": "https://www.ipm.com.br/",
+    "concluido": false
   },
   {
+    "id": 568,
     "empresa": "Eldorado Research Institute",
-    "site": "http://www.eldorado.org.br/"
+    "site": "http://www.eldorado.org.br/",
+    "concluido": false
   },
   {
+    "id": 569,
     "empresa": "ProJuris",
-    "site": "https://www.projuris.com.br/"
+    "site": "https://www.projuris.com.br/",
+    "concluido": false
   },
   {
+    "id": 570,
     "empresa": "Theòs Sistemas Eclesiais",
-    "site": "https://theos.com.br/"
+    "site": "https://theos.com.br/",
+    "concluido": false
   },
   {
+    "id": 571,
     "empresa": "PARS",
-    "site": "http://www.pars.com.br/"
+    "site": "http://www.pars.com.br/",
+    "concluido": false
   },
   {
+    "id": 572,
     "empresa": "Suthub",
-    "site": "http://suthub.com/"
+    "site": "http://suthub.com/",
+    "concluido": false
   },
   {
+    "id": 573,
     "empresa": "Enacom",
-    "site": "https://www.enacom.com.br/"
+    "site": "https://www.enacom.com.br/",
+    "concluido": false
   },
   {
+    "id": 574,
     "empresa": "Jettax",
-    "site": "https://www.jettax.com.br/"
+    "site": "https://www.jettax.com.br/",
+    "concluido": false
   },
   {
+    "id": 575,
     "empresa": "TruckPad",
-    "site": "https://www.truckpad.com.br/"
+    "site": "https://www.truckpad.com.br/",
+    "concluido": false
   },
   {
+    "id": 576,
     "empresa": "4all Tecnologia",
-    "site": "https://www.4all.com/"
+    "site": "https://www.4all.com/",
+    "concluido": false
   },
   {
+    "id": 577,
     "empresa": "CESAR",
-    "site": "https://www.cesar.org.br/"
+    "site": "https://www.cesar.org.br/",
+    "concluido": false
   },
   {
+    "id": 578,
     "empresa": "YHub",
-    "site": "https://www.yhub.com.br/"
+    "site": "https://www.yhub.com.br/",
+    "concluido": false
   },
   {
+    "id": 579,
     "empresa": "Bitcom",
-    "site": "https://www.bitcom.com.br/"
+    "site": "https://www.bitcom.com.br/",
+    "concluido": false
   },
   {
+    "id": 580,
     "empresa": "PM3",
-    "site": "https://www.cursospm3.com.br/"
+    "site": "https://www.cursospm3.com.br/",
+    "concluido": false
   },
   {
+    "id": 581,
     "empresa": "Ateliware",
-    "site": "https://www.ateliware.com/"
+    "site": "https://www.ateliware.com/",
+    "concluido": false
   },
   {
+    "id": 582,
     "empresa": "Pier Cloud",
-    "site": "https://piercloud.com/"
+    "site": "https://piercloud.com/",
+    "concluido": false
   },
   {
+    "id": 583,
     "empresa": "Nanovetores Group",
-    "site": "http://www.nanovetores.com.br/"
+    "site": "http://www.nanovetores.com.br/",
+    "concluido": false
   },
   {
+    "id": 584,
     "empresa": "I4PRO",
-    "site": "http://i4pro.com.br/"
+    "site": "http://i4pro.com.br/",
+    "concluido": false
   },
   {
+    "id": 585,
     "empresa": "VYDENCE Medical",
-    "site": "https://www.vydence.com/"
+    "site": "https://www.vydence.com/",
+    "concluido": false
   },
   {
+    "id": 586,
     "empresa": "Celepar",
-    "site": "https://www.celepar.pr.gov.br/"
+    "site": "https://www.celepar.pr.gov.br/",
+    "concluido": false
   },
   {
+    "id": 587,
     "empresa": "Poatek",
-    "site": "https://poatek.com/"
+    "site": "https://poatek.com/",
+    "concluido": false
   },
   {
+    "id": 588,
     "empresa": "4MATT",
-    "site": "http://www.4matt.com.br/"
+    "site": "http://www.4matt.com.br/",
+    "concluido": false
   },
   {
+    "id": 589,
     "empresa": "Ambev Tech",
-    "site": "https://ambevtech.com.br/quem-somos/"
+    "site": "https://ambevtech.com.br/quem-somos/",
+    "concluido": false
   },
   {
+    "id": 590,
     "empresa": "ADDSALES",
-    "site": "https://addsales.com/"
+    "site": "https://addsales.com/",
+    "concluido": false
   },
   {
+    "id": 591,
     "empresa": "ARQUIVAR - Gestão Inteligente de Documentos e Processos",
-    "site": "https://arquivar.com.br/"
+    "site": "https://arquivar.com.br/",
+    "concluido": false
   },
   {
+    "id": 592,
     "empresa": "IntellTech",
-    "site": "https://intelltech.com/"
+    "site": "https://intelltech.com/",
+    "concluido": false
   },
   {
+    "id": 593,
     "empresa": "Brasoftware",
-    "site": "http://www.brasoftware.com.br/"
+    "site": "http://www.brasoftware.com.br/",
+    "concluido": false
   },
   {
+    "id": 594,
     "empresa": "Elytron Security",
-    "site": "https://www.elytronsecurity.com/"
+    "site": "https://www.elytronsecurity.com/",
+    "concluido": false
   },
   {
+    "id": 595,
     "empresa": "Systax",
-    "site": "https://www.systax.com.br/"
+    "site": "https://www.systax.com.br/",
+    "concluido": false
   },
   {
+    "id": 596,
     "empresa": "TDS Company",
-    "site": "https://tds.company/"
+    "site": "https://tds.company/",
+    "concluido": false
   },
   {
+    "id": 597,
     "empresa": "Maitha Tech",
-    "site": "https://maitha.com.br/"
+    "site": "https://maitha.com.br/",
+    "concluido": false
   },
   {
+    "id": 598,
     "empresa": "NTW Contabilidade e Gestão Empresarial",
-    "site": "https://ntwcontabilidade.com.br/"
+    "site": "https://ntwcontabilidade.com.br/",
+    "concluido": false
   },
   {
+    "id": 599,
     "empresa": "Eval",
-    "site": "https://eval.digital/"
+    "site": "https://eval.digital/",
+    "concluido": false
   },
   {
+    "id": 600,
     "empresa": "Stoodi",
-    "site": "https://www.stoodi.com.br/"
+    "site": "https://www.stoodi.com.br/",
+    "concluido": false
   },
   {
+    "id": 601,
     "empresa": "Construmarket",
-    "site": "https://construmarket.com.br/"
+    "site": "https://construmarket.com.br/",
+    "concluido": false
   },
   {
+    "id": 602,
     "empresa": "Sebrae-PE",
-    "site": "http://www.sebrae.com.br/sites/PortalSebrae/"
+    "site": "http://www.sebrae.com.br/sites/PortalSebrae/",
+    "concluido": false
   },
   {
+    "id": 603,
     "empresa": "Trílogo",
-    "site": "http://trilogo.com.br/"
+    "site": "http://trilogo.com.br/",
+    "concluido": false
   },
   {
+    "id": 604,
     "empresa": "Emsoft Solutions",
-    "site": "https://emsoft.com.br/"
+    "site": "https://emsoft.com.br/",
+    "concluido": false
   },
   {
+    "id": 605,
     "empresa": "Folhamatic",
-    "site": "http://www.folhamatic.com.br/"
+    "site": "http://www.folhamatic.com.br/",
+    "concluido": false
   },
   {
+    "id": 606,
     "empresa": "SEC4U CYBER IDENTITY",
-    "site": "https://www.sec4u.com.br/"
+    "site": "https://www.sec4u.com.br/",
+    "concluido": false
   },
   {
+    "id": 607,
     "empresa": "Navita",
-    "site": "http://www.navita.com.br/portal/home.html"
+    "site": "http://www.navita.com.br/portal/home.html",
+    "concluido": false
   },
   {
+    "id": 608,
     "empresa": "Cleartech",
-    "site": "https://www.cleartech.com.br/"
+    "site": "https://www.cleartech.com.br/",
+    "concluido": false
   },
   {
+    "id": 609,
     "empresa": "Crivo",
-    "site": "http://www.crivo.com.br/"
+    "site": "http://www.crivo.com.br/",
+    "concluido": false
   },
   {
+    "id": 610,
     "empresa": "Evolucional Educadores",
-    "site": "http://www.evolucional.com.br/"
+    "site": "http://www.evolucional.com.br/",
+    "concluido": false
   },
   {
+    "id": 611,
     "empresa": "Advise",
-    "site": "https://advise.com.br/"
+    "site": "https://advise.com.br/",
+    "concluido": false
   },
   {
+    "id": 612,
     "empresa": "IPNET Soluções",
-    "site": "https://www.ipnet.cloud/"
+    "site": "https://www.ipnet.cloud/",
+    "concluido": false
   },
   {
+    "id": 613,
     "empresa": "Grupo Xango",
-    "site": "http://www.grupoxango.com/"
+    "site": "http://www.grupoxango.com/",
+    "concluido": false
   },
   {
+    "id": 614,
     "empresa": "Trier Sistemas",
-    "site": "http://www.triersistemas.com.br/"
+    "site": "http://www.triersistemas.com.br/",
+    "concluido": false
   },
   {
+    "id": 615,
     "empresa": "NeoAssist",
-    "site": "http://www.neoassist.com/"
+    "site": "http://www.neoassist.com/",
+    "concluido": false
   },
   {
+    "id": 616,
     "empresa": "Neobpo",
-    "site": "http://www.neobpo.com.br/"
+    "site": "http://www.neobpo.com.br/",
+    "concluido": false
   },
   {
+    "id": 617,
     "empresa": "Familhão",
-    "site": "https://www.linkedin.com/company/familhao/"
+    "site": "https://www.linkedin.com/company/familhao/",
+    "concluido": false
   },
   {
+    "id": 618,
     "empresa": "Tagcom",
-    "site": "https://tagcom.com.br/"
+    "site": "https://tagcom.com.br/",
+    "concluido": false
   },
   {
+    "id": 619,
     "empresa": "Revelo Brasil",
-    "site": "https://www.revelo.com.br/"
+    "site": "https://www.revelo.com.br/",
+    "concluido": false
   },
   {
+    "id": 620,
     "empresa": "Service IT",
-    "site": "http://www.service.com.br/"
+    "site": "http://www.service.com.br/",
+    "concluido": false
   },
   {
+    "id": 621,
     "empresa": "Scup",
-    "site": "http://www.scup.com/"
+    "site": "http://www.scup.com/",
+    "concluido": false
   },
   {
+    "id": 622,
     "empresa": "Ubiminds",
-    "site": "https://ubiminds.com/"
+    "site": "https://ubiminds.com/",
+    "concluido": false
   },
   {
+    "id": 623,
     "empresa": "eWave",
-    "site": "http://www.ewave.co.il/"
+    "site": "http://www.ewave.co.il/",
+    "concluido": false
   },
   {
+    "id": 624,
     "empresa": "Dayway",
-    "site": "https://dayway.com.br/"
+    "site": "https://dayway.com.br/",
+    "concluido": false
   },
   {
+    "id": 625,
     "empresa": "BITKA Analytics",
-    "site": "https://www.bitka.com.br/"
+    "site": "https://www.bitka.com.br/",
+    "concluido": false
   },
   {
+    "id": 626,
     "empresa": "Justa",
-    "site": "https://www.justa.com.vc/"
+    "site": "https://www.justa.com.vc/",
+    "concluido": false
   },
   {
+    "id": 627,
     "empresa": "B2e Group",
-    "site": "https://b2egroup.com.br/"
+    "site": "https://b2egroup.com.br/",
+    "concluido": false
   },
   {
+    "id": 628,
     "empresa": "Atech",
-    "site": "https://www.atech.com.br/"
+    "site": "https://www.atech.com.br/",
+    "concluido": false
   },
   {
+    "id": 629,
     "empresa": "Prosperi",
-    "site": "https://www.prosperiglobal.com/en/"
+    "site": "https://www.prosperiglobal.com/en/",
+    "concluido": false
   },
   {
+    "id": 630,
     "empresa": "HealthBit",
-    "site": "https://www.healthbit.com.br/"
+    "site": "https://www.healthbit.com.br/",
+    "concluido": false
   },
   {
+    "id": 631,
     "empresa": "Selbetti",
-    "site": "https://selbetti.com.br/"
+    "site": "https://selbetti.com.br/",
+    "concluido": false
   },
   {
+    "id": 632,
     "empresa": "Nextar Tecnologia De Software",
-    "site": "https://www.nextar.com.br/"
+    "site": "https://www.nextar.com.br/",
+    "concluido": false
   },
   {
+    "id": 633,
     "empresa": "Ikatec",
-    "site": "https://www.ikatec.com.br/"
+    "site": "https://www.ikatec.com.br/",
+    "concluido": false
   },
   {
+    "id": 634,
     "empresa": "AZPay - Smart Payment Solutions",
-    "site": "https://www.azpay.com.br/"
+    "site": "https://www.azpay.com.br/",
+    "concluido": false
   },
   {
+    "id": 635,
     "empresa": "MercadoCar",
-    "site": "https://www.mercadocar.com.br/"
+    "site": "https://www.mercadocar.com.br/",
+    "concluido": false
   },
   {
+    "id": 636,
     "empresa": "Buysoft",
-    "site": "https://buysoft.com.br/"
+    "site": "https://buysoft.com.br/",
+    "concluido": false
   },
   {
+    "id": 637,
     "empresa": "NDD",
-    "site": "https://ndd.tech/"
+    "site": "https://ndd.tech/",
+    "concluido": false
   },
   {
+    "id": 638,
     "empresa": "Leiturinha",
-    "site": "https://leiturinha.com.br/"
+    "site": "https://leiturinha.com.br/",
+    "concluido": false
   },
   {
+    "id": 639,
     "empresa": "Incubadora Tecnológica Liberato",
-    "site": "https://incubadoraliberato.com.br/"
+    "site": "https://incubadoraliberato.com.br/",
+    "concluido": false
   },
   {
+    "id": 640,
     "empresa": "Phoebus",
-    "site": "http://www.phoebus.com.br/"
+    "site": "http://www.phoebus.com.br/",
+    "concluido": false
   },
   {
+    "id": 641,
     "empresa": "Accent",
-    "site": "http://www.accent-soc.com/"
+    "site": "http://www.accent-soc.com/",
+    "concluido": false
   },
   {
+    "id": 642,
     "empresa": "T10",
-    "site": "https://www.t10.digital/contato"
+    "site": "https://www.t10.digital/contato",
+    "concluido": false
   },
   {
+    "id": 643,
     "empresa": "DB1 Global Software",
-    "site": "http://db1global.com/"
+    "site": "http://db1global.com/",
+    "concluido": false
   },
   {
+    "id": 644,
     "empresa": "Evo W12",
-    "site": "http://www.w12.com.br/"
+    "site": "http://www.w12.com.br/",
+    "concluido": false
   },
   {
+    "id": 645,
     "empresa": "Radix Engenharia e Software",
-    "site": "https://radixeng.com.br/"
+    "site": "https://radixeng.com.br/",
+    "concluido": false
   },
   {
+    "id": 646,
     "empresa": "Ímpar",
-    "site": "https://impar.com.br/"
+    "site": "https://impar.com.br/",
+    "concluido": false
   },
   {
+    "id": 647,
     "empresa": "Rox Partner",
-    "site": "https://roxpartner.com/"
+    "site": "https://roxpartner.com/",
+    "concluido": false
   },
   {
+    "id": 648,
     "empresa": "3C Plus",
-    "site": "http://www.3cplusnow.com/"
+    "site": "http://www.3cplusnow.com/",
+    "concluido": false
   },
   {
+    "id": 649,
     "empresa": "SulAmérica",
-    "site": "http://portal.sulamericaseguros.com.br/home.htm"
+    "site": "http://portal.sulamericaseguros.com.br/home.htm",
+    "concluido": false
   },
   {
+    "id": 650,
     "empresa": "Grupo Nexxera",
-    "site": "https://www.gruponexxees.com/"
+    "site": "https://www.gruponexxees.com/",
+    "concluido": false
   },
   {
+    "id": 651,
     "empresa": "AUNICA Interactive Marketing",
-    "site": "https://aunica.com/en/"
+    "site": "https://aunica.com/en/",
+    "concluido": false
   },
   {
+    "id": 652,
     "empresa": "Propz",
-    "site": "http://www.propz.com.br/"
+    "site": "http://www.propz.com.br/",
+    "concluido": false
   },
   {
+    "id": 653,
     "empresa": "ANYMARKET",
-    "site": "https://www.anymarket.com.br/"
+    "site": "https://www.anymarket.com.br/",
+    "concluido": false
   },
   {
+    "id": 654,
     "empresa": "Callink",
-    "site": "http://www.callink.com.br/"
+    "site": "http://www.callink.com.br/",
+    "concluido": false
   },
   {
+    "id": 655,
     "empresa": "IXC Soft",
-    "site": "https://www.ixcsoft.com.br/"
+    "site": "https://www.ixcsoft.com.br/",
+    "concluido": false
   },
   {
+    "id": 656,
     "empresa": "Wise",
-    "site": "https://www.wises.com.br/"
+    "site": "https://www.wises.com.br/",
+    "concluido": false
   },
   {
+    "id": 657,
     "empresa": "Compsis",
-    "site": "https://compsis.com.br/"
+    "site": "https://compsis.com.br/",
+    "concluido": false
   },
   {
+    "id": 658,
     "empresa": "Forlogic",
-    "site": "https://forlogic.net/"
+    "site": "https://forlogic.net/",
+    "concluido": false
   },
   {
+    "id": 659,
     "empresa": "RSI Informática",
-    "site": "https://rsinet.com.br/"
+    "site": "https://rsinet.com.br/",
+    "concluido": false
   },
   {
+    "id": 660,
     "empresa": "GAtec",
-    "site": "https://gatec.com.br/"
+    "site": "https://gatec.com.br/",
+    "concluido": false
   },
   {
+    "id": 661,
     "empresa": "Engesoftware Tecnologia",
-    "site": "https://www.engesoftware.com/"
+    "site": "https://www.engesoftware.com/",
+    "concluido": false
   },
   {
+    "id": 662,
     "empresa": "Microsoft Innovation Center",
-    "site": "http://www.microsoftinnovationcenters.com/"
+    "site": "http://www.microsoftinnovationcenters.com/",
+    "concluido": false
   },
   {
+    "id": 663,
     "empresa": "Solo Network",
-    "site": "https://www.solonetwork.com.br/home"
+    "site": "https://www.solonetwork.com.br/home",
+    "concluido": false
   },
   {
+    "id": 664,
     "empresa": "Fulltime",
-    "site": "https://fulltime.com.br/"
+    "site": "https://fulltime.com.br/",
+    "concluido": false
   },
   {
+    "id": 665,
     "empresa": "Sintel",
-    "site": "https://www.sintelglobal.com/"
+    "site": "https://www.sintelglobal.com/",
+    "concluido": false
   },
   {
+    "id": 666,
     "empresa": "GAVB",
-    "site": "https://www.gavb.com.br/"
+    "site": "https://www.gavb.com.br/",
+    "concluido": false
   },
   {
+    "id": 667,
     "empresa": "Minu",
-    "site": "http://www.minutrade.com.br/"
+    "site": "http://www.minutrade.com.br/",
+    "concluido": false
   },
   {
+    "id": 668,
     "empresa": "Wareline",
-    "site": "https://www.wareline.com.br/"
+    "site": "https://www.wareline.com.br/",
+    "concluido": false
   },
   {
+    "id": 669,
     "empresa": "CPM Braxis",
-    "site": "http://www.cpmbraxis.com/"
+    "site": "http://www.cpmbraxis.com/",
+    "concluido": false
   },
   {
+    "id": 670,
     "empresa": "OpenTech",
-    "site": "http://www.opentechgr.com.br/"
+    "site": "http://www.opentechgr.com.br/",
+    "concluido": false
   },
   {
+    "id": 671,
     "empresa": "Hivecloud",
-    "site": "http://www.hivecloud.com.br/"
+    "site": "http://www.hivecloud.com.br/",
+    "concluido": false
   },
   {
+    "id": 672,
     "empresa": "Primi",
-    "site": "https://www.primi.com.br/"
+    "site": "https://www.primi.com.br/",
+    "concluido": false
   },
   {
+    "id": 673,
     "empresa": "55PBX Cloud Contact Center",
-    "site": "http://www.55pbx.com/"
+    "site": "http://www.55pbx.com/",
+    "concluido": false
   },
   {
+    "id": 674,
     "empresa": "Gera",
-    "site": "https://gera.com.br/"
+    "site": "https://gera.com.br/",
+    "concluido": false
   },
   {
+    "id": 675,
     "empresa": "Trizy",
-    "site": "https://trizy.com.br/"
+    "site": "https://trizy.com.br/",
+    "concluido": false
   },
   {
+    "id": 676,
     "empresa": "Embratel",
-    "site": "https://www.embratel.com.br/"
+    "site": "https://www.embratel.com.br/",
+    "concluido": false
   },
   {
+    "id": 677,
     "empresa": "GestãoDS",
-    "site": "https://gestaods.com.br/"
+    "site": "https://gestaods.com.br/",
+    "concluido": false
   },
   {
+    "id": 678,
     "empresa": "MPS Informática",
-    "site": "https://www.mps.com.br/"
+    "site": "https://www.mps.com.br/",
+    "concluido": false
   },
   {
+    "id": 679,
     "empresa": "Soluti",
-    "site": "https://www.soluti.com.br/"
+    "site": "https://www.soluti.com.br/",
+    "concluido": false
   },
   {
+    "id": 680,
     "empresa": "Green4T",
-    "site": "http://www.green4t.com/"
+    "site": "http://www.green4t.com/",
+    "concluido": false
   },
   {
+    "id": 681,
     "empresa": "Saúde iD",
-    "site": "https://saudeid.com.br/"
+    "site": "https://saudeid.com.br/",
+    "concluido": false
   },
   {
+    "id": 682,
     "empresa": "ADTsys Cloud Computing",
-    "site": "http://www.adtsys.com.br/"
+    "site": "http://www.adtsys.com.br/",
+    "concluido": false
   },
   {
+    "id": 683,
     "empresa": "Mundivox",
-    "site": "http://www.mundivox.com/"
+    "site": "http://www.mundivox.com/",
+    "concluido": false
   },
   {
+    "id": 684,
     "empresa": "Blue Media Services",
-    "site": "https://web.getblue.io/"
+    "site": "https://web.getblue.io/",
+    "concluido": false
   },
   {
+    "id": 685,
     "empresa": "CWI Software",
-    "site": "https://cwi.com.br/"
+    "site": "https://cwi.com.br/",
+    "concluido": false
   },
   {
+    "id": 686,
     "empresa": "BioPass ID",
-    "site": "https://www.biopassid.com/"
+    "site": "https://www.biopassid.com/",
+    "concluido": false
   },
   {
+    "id": 687,
     "empresa": "Credicard",
-    "site": "https://www.credicard.com.br/"
+    "site": "https://www.credicard.com.br/",
+    "concluido": false
   },
   {
+    "id": 688,
     "empresa": "Nuveo Technologies Ltda",
-    "site": "http://www.nuveo.ai/"
+    "site": "http://www.nuveo.ai/",
+    "concluido": false
   },
   {
+    "id": 689,
     "empresa": "L8 GROUP",
-    "site": "https://www.l8group.net/"
+    "site": "https://www.l8group.net/",
+    "concluido": false
   },
   {
+    "id": 690,
     "empresa": "DBC Company",
-    "site": "https://www.dbccompany.com.br/"
+    "site": "https://www.dbccompany.com.br/",
+    "concluido": false
   },
   {
+    "id": 691,
     "empresa": "WEBJUMP",
-    "site": "https://webjump.com.br/"
+    "site": "https://webjump.com.br/",
+    "concluido": false
   },
   {
+    "id": 692,
     "empresa": "Soft Trade",
-    "site": "https://softtrade.com.br/Default.aspx"
+    "site": "https://softtrade.com.br/Default.aspx",
+    "concluido": false
   },
   {
+    "id": 693,
     "empresa": "Questor Sistemas",
-    "site": "https://www.questor.com.br/#home"
+    "site": "https://www.questor.com.br/#home",
+    "concluido": false
   },
   {
+    "id": 694,
     "empresa": "Bexs",
-    "site": "https://www.bexs.com.br/"
+    "site": "https://www.bexs.com.br/",
+    "concluido": false
   },
   {
+    "id": 695,
     "empresa": "TECNOSPEED",
-    "site": "https://www.grupotecnospeed.com/"
+    "site": "https://www.grupotecnospeed.com/",
+    "concluido": false
   },
   {
+    "id": 696,
     "empresa": "VMtecnologia",
-    "site": "https://www.vmtecnologia.io/"
+    "site": "https://www.vmtecnologia.io/",
+    "concluido": false
   },
   {
+    "id": 697,
     "empresa": "Viasoft Informatica",
-    "site": "http://www.viasoft.com.br/"
+    "site": "http://www.viasoft.com.br/",
+    "concluido": false
   },
   {
+    "id": 698,
     "empresa": "Clavis Information Security",
-    "site": "https://clavis.com.br/"
+    "site": "https://clavis.com.br/",
+    "concluido": false
   },
   {
+    "id": 699,
     "empresa": "Conviso Application Security",
-    "site": "https://www.convisoappsec.com/"
+    "site": "https://www.convisoappsec.com/",
+    "concluido": false
   },
   {
+    "id": 700,
     "empresa": "Força Aérea Brasileira",
-    "site": "https://www.fab.mil.br/"
+    "site": "https://www.fab.mil.br/",
+    "concluido": false
   },
   {
+    "id": 701,
     "empresa": "Digistar Telecomunicações",
-    "site": "https://www.digistar.com.br/"
+    "site": "https://www.digistar.com.br/",
+    "concluido": false
   },
   {
+    "id": 702,
     "empresa": "ilegra",
-    "site": "http://ilegra.com/en"
+    "site": "http://ilegra.com/en",
+    "concluido": false
   },
   {
+    "id": 703,
     "empresa": "Computécnica Tecnologia",
-    "site": "https://www.computecnica.com.br/"
+    "site": "https://www.computecnica.com.br/",
+    "concluido": false
   },
   {
+    "id": 704,
     "empresa": "FingerTips",
-    "site": "http://www.ftips.com.br/"
+    "site": "http://www.ftips.com.br/",
+    "concluido": false
   },
   {
+    "id": 705,
     "empresa": "Go! Telecom",
-    "site": "https://gotelecom.com.br/"
+    "site": "https://gotelecom.com.br/",
+    "concluido": false
   },
   {
+    "id": 706,
     "empresa": "Pacific Sec",
-    "site": "https://site.pacificsec.com/"
+    "site": "https://site.pacificsec.com/",
+    "concluido": false
   },
   {
+    "id": 707,
     "empresa": "Seidor",
-    "site": "https://www.seidor.com.br/"
+    "site": "https://www.seidor.com.br/",
+    "concluido": false
   },
   {
+    "id": 708,
     "empresa": "Macro",
-    "site": "https://macro.com.br/"
+    "site": "https://macro.com.br/",
+    "concluido": false
   },
   {
+    "id": 709,
     "empresa": "GAO TECH",
-    "site": "https://gaotech.com.br/"
+    "site": "https://gaotech.com.br/",
+    "concluido": false
   },
   {
+    "id": 710,
     "empresa": "TRL Systems",
-    "site": "https://www.trlsystems.com/"
+    "site": "https://www.trlsystems.com/",
+    "concluido": false
   },
   {
+    "id": 711,
     "empresa": "LIT Solutions",
-    "site": "https://www.litsolutions.com.br/"
+    "site": "https://www.litsolutions.com.br/",
+    "concluido": false
   },
   {
+    "id": 712,
     "empresa": "TJDFT",
-    "site": "http://www.tjdft.jus.br/"
+    "site": "http://www.tjdft.jus.br/",
+    "concluido": false
   },
   {
+    "id": 713,
     "empresa": "Mobyan",
-    "site": "https://www.mobyan.com.br/"
+    "site": "https://www.mobyan.com.br/",
+    "concluido": false
   },
   {
+    "id": 714,
     "empresa": "BB Technology and Services",
-    "site": "https://bbts.com.br/"
+    "site": "https://bbts.com.br/",
+    "concluido": false
   },
   {
+    "id": 715,
     "empresa": "Maplink",
-    "site": "https://maplink.global/"
+    "site": "https://maplink.global/",
+    "concluido": false
   },
   {
+    "id": 716,
     "empresa": "ONCLICK",
-    "site": "https://onclick.com.br/"
+    "site": "https://onclick.com.br/",
+    "concluido": false
   },
   {
+    "id": 717,
     "empresa": "Gold 360",
-    "site": "https://gold360.com.br/"
+    "site": "https://gold360.com.br/",
+    "concluido": false
   },
   {
+    "id": 718,
     "empresa": "Agility Networks",
-    "site": "https://somosagility.com.br/"
+    "site": "https://somosagility.com.br/",
+    "concluido": false
   },
   {
+    "id": 719,
     "empresa": "Fortes Tecnologia",
-    "site": "https://www.fortestecnologia.com.br/"
+    "site": "https://www.fortestecnologia.com.br/",
+    "concluido": false
   },
   {
+    "id": 720,
     "empresa": "MXM Sistemas",
-    "site": "http://www.mxm.com.br/"
+    "site": "http://www.mxm.com.br/",
+    "concluido": false
   },
   {
+    "id": 721,
     "empresa": "DBM Contact Center",
-    "site": "https://www.dbm.com.br/"
+    "site": "https://www.dbm.com.br/",
+    "concluido": false
   },
   {
+    "id": 722,
     "empresa": "Vidi",
-    "site": "https://vidibr.com/"
+    "site": "https://vidibr.com/",
+    "concluido": false
   },
   {
+    "id": 723,
     "empresa": "Kinoplex Cinemas",
-    "site": "https://www.kinoplex.com.br/-/kinoplex-riosul"
+    "site": "https://www.kinoplex.com.br/-/kinoplex-riosul",
+    "concluido": false
   },
   {
+    "id": 724,
     "empresa": "Autodoc",
-    "site": "https://site.autodoc.com.br/"
+    "site": "https://site.autodoc.com.br/",
+    "concluido": false
   },
   {
+    "id": 725,
     "empresa": "BrScan",
-    "site": "https://www.brscan.com.br/"
+    "site": "https://www.brscan.com.br/",
+    "concluido": false
   },
   {
+    "id": 726,
     "empresa": "Oplium",
-    "site": "https://oplium.com/"
+    "site": "https://oplium.com/",
+    "concluido": false
   },
   {
+    "id": 727,
     "empresa": "Huge Networks",
-    "site": "https://www.huge-networks.com/"
+    "site": "https://www.huge-networks.com/",
+    "concluido": false
   },
   {
+    "id": 728,
     "empresa": "Shift",
-    "site": "https://shift.com.br/"
+    "site": "https://shift.com.br/",
+    "concluido": false
   },
   {
+    "id": 729,
     "empresa": "Brasil Center",
-    "site": "https://www.brasilcenter.com.br/"
+    "site": "https://www.brasilcenter.com.br/",
+    "concluido": false
   },
   {
+    "id": 730,
     "empresa": "Sienge",
-    "site": "https://www.sienge.com.br/"
+    "site": "https://www.sienge.com.br/",
+    "concluido": false
   },
   {
+    "id": 731,
     "empresa": "Oobj",
-    "site": "https://www.oobj.com.br/"
+    "site": "https://www.oobj.com.br/",
+    "concluido": false
   },
   {
+    "id": 732,
     "empresa": "SiDi",
-    "site": "https://www.sidi.org.br/?lang=en"
+    "site": "https://www.sidi.org.br/?lang=en",
+    "concluido": false
   },
   {
+    "id": 733,
     "empresa": "TECNICON",
-    "site": "https://www.tecnicon.com.br/"
+    "site": "https://www.tecnicon.com.br/",
+    "concluido": false
   },
   {
+    "id": 734,
     "empresa": "netVendor",
-    "site": "http://www.netvendor.co.za/"
+    "site": "http://www.netvendor.co.za/",
+    "concluido": false
   },
   {
+    "id": 735,
     "empresa": "Casa Magalhães",
-    "site": "https://www.casamagalhaes.com.br/"
+    "site": "https://www.casamagalhaes.com.br/",
+    "concluido": false
   },
   {
+    "id": 736,
     "empresa": "Bematech",
-    "site": "https://www.bematech.com.br/"
+    "site": "https://www.bematech.com.br/",
+    "concluido": false
   },
   {
+    "id": 737,
     "empresa": "3S Checkout",
-    "site": "https://3scheckout.com/"
+    "site": "https://3scheckout.com/",
+    "concluido": false
   },
   {
+    "id": 738,
     "empresa": "Contmatic Phoenix",
-    "site": "https://contmatic.com.br/"
+    "site": "https://contmatic.com.br/",
+    "concluido": false
   },
   {
+    "id": 739,
     "empresa": "Think IT",
-    "site": "https://www.grupothink.com.br/"
+    "site": "https://www.grupothink.com.br/",
+    "concluido": false
   },
   {
+    "id": 740,
     "empresa": "JD Consultores",
-    "site": "https://www.jdconsultores.com.br/"
+    "site": "https://www.jdconsultores.com.br/",
+    "concluido": false
   },
   {
+    "id": 741,
     "empresa": "Zuri",
-    "site": "https://gozuri.com/"
+    "site": "https://gozuri.com/",
+    "concluido": false
   },
   {
+    "id": 742,
     "empresa": "BNP Soluções em TI",
-    "site": "https://bnpsolucoes.com.br/"
+    "site": "https://bnpsolucoes.com.br/",
+    "concluido": false
   },
   {
+    "id": 743,
     "empresa": "e-Auditoria",
-    "site": "http://www.e-auditoria.com.br/"
+    "site": "http://www.e-auditoria.com.br/",
+    "concluido": false
   },
   {
+    "id": 744,
     "empresa": "Aldo Solar",
-    "site": "https://www.aldo.com.br/"
+    "site": "https://www.aldo.com.br/",
+    "concluido": false
   },
   {
+    "id": 745,
     "empresa": "Cloud2Go",
-    "site": "https://cloud2go.com.br/"
+    "site": "https://cloud2go.com.br/",
+    "concluido": false
   },
   {
+    "id": 746,
     "empresa": "Golabs",
-    "site": "https://golabstech.com/"
+    "site": "https://golabstech.com/",
+    "concluido": false
   },
   {
+    "id": 747,
     "empresa": "Climatempo",
-    "site": "https://climatempo.com.br/"
+    "site": "https://climatempo.com.br/",
+    "concluido": false
   },
   {
+    "id": 748,
     "empresa": "ZOOM Tecnologia",
-    "site": "https://zoomtecnologia.com.br/"
+    "site": "https://zoomtecnologia.com.br/",
+    "concluido": false
   },
   {
+    "id": 749,
     "empresa": ".add",
-    "site": "https://somosadd.com.br/"
+    "site": "https://somosadd.com.br/",
+    "concluido": false
   },
   {
+    "id": 750,
     "empresa": "Connectoway",
-    "site": "https://connectoway.com.br/"
+    "site": "https://connectoway.com.br/",
+    "concluido": false
   },
   {
+    "id": 751,
     "empresa": "CBYK",
-    "site": "https://cbyk.com.br/"
+    "site": "https://cbyk.com.br/",
+    "concluido": false
   },
   {
+    "id": 752,
     "empresa": "Solutis Tecnologias",
-    "site": "https://www.solutis.com.br/"
+    "site": "https://www.solutis.com.br/",
+    "concluido": false
   },
   {
+    "id": 753,
     "empresa": "Boxnet",
-    "site": "https://www.boxnet.com.br/"
+    "site": "https://www.boxnet.com.br/",
+    "concluido": false
   },
   {
+    "id": 754,
     "empresa": "Escritório Inteligente",
-    "site": "https://www.escritoriointeligente.com/"
+    "site": "https://www.escritoriointeligente.com/",
+    "concluido": false
   },
   {
+    "id": 755,
     "empresa": "Bysoft",
-    "site": "http://bysoft.com.br/"
+    "site": "http://bysoft.com.br/",
+    "concluido": false
   },
   {
+    "id": 756,
     "empresa": "ModalGR",
-    "site": "https://modalgr.com.br/"
+    "site": "https://modalgr.com.br/",
+    "concluido": false
   },
   {
+    "id": 757,
     "empresa": "Topmind",
-    "site": "https://topmind.com.br/"
+    "site": "https://topmind.com.br/",
+    "concluido": false
   },
   {
+    "id": 758,
     "empresa": "Vitat",
-    "site": "https://vitat.com.br/"
+    "site": "https://vitat.com.br/",
+    "concluido": false
   },
   {
+    "id": 759,
     "empresa": "Safer",
-    "site": "https://safertrip.com.br/"
+    "site": "https://safertrip.com.br/",
+    "concluido": false
   },
   {
+    "id": 760,
     "empresa": "Venturus",
-    "site": "https://venturus.org.br/"
+    "site": "https://venturus.org.br/",
+    "concluido": false
   },
   {
+    "id": 761,
     "empresa": "Refriko",
-    "site": "https://www.refriko.com.br/"
+    "site": "https://www.refriko.com.br/",
+    "concluido": false
   },
   {
+    "id": 762,
     "empresa": "IOB Group",
-    "site": "https://iob.com.br/"
+    "site": "https://iob.com.br/",
+    "concluido": false
   },
   {
+    "id": 763,
     "empresa": "Checklist Fácil",
-    "site": "https://checklistfacil.com/"
+    "site": "https://checklistfacil.com/",
+    "concluido": false
   },
   {
+    "id": 764,
     "empresa": "Agrotis Agroinformática",
-    "site": "https://www.agrotis.com/"
+    "site": "https://www.agrotis.com/",
+    "concluido": false
   },
   {
+    "id": 765,
     "empresa": "Ciplan",
-    "site": "https://www.ciplan.com.br/"
+    "site": "https://www.ciplan.com.br/",
+    "concluido": false
   },
   {
+    "id": 766,
     "empresa": "LiberFly",
-    "site": "https://www.liberfly.com.br/"
+    "site": "https://www.liberfly.com.br/",
+    "concluido": false
   },
   {
+    "id": 767,
     "empresa": "Forbiz Business Software",
-    "site": "https://forbiz.com.br/"
+    "site": "https://forbiz.com.br/",
+    "concluido": false
   },
   {
+    "id": 768,
     "empresa": "Docato",
-    "site": "https://docato.com.br/"
+    "site": "https://docato.com.br/",
+    "concluido": false
   },
   {
+    "id": 769,
     "empresa": "VR System",
-    "site": "https://vrsystem.info/"
+    "site": "https://vrsystem.info/",
+    "concluido": false
   },
   {
+    "id": 770,
     "empresa": "Ticket Log",
-    "site": "https://www.ticketlog.com.br/"
+    "site": "https://www.ticketlog.com.br/",
+    "concluido": false
   },
   {
+    "id": 771,
     "empresa": "Demarco",
-    "site": "https://www.demarco.com.br/"
+    "site": "https://www.demarco.com.br/",
+    "concluido": false
   },
   {
+    "id": 772,
     "empresa": "Hypnobox",
-    "site": "https://www.hypnobox.com.br/"
+    "site": "https://www.hypnobox.com.br/",
+    "concluido": false
   },
   {
+    "id": 773,
     "empresa": "Hughes Telecommunications of Brazil",
-    "site": "https://www.hughes.com.br/"
+    "site": "https://www.hughes.com.br/",
+    "concluido": false
   },
   {
+    "id": 774,
     "empresa": "Objective Group",
-    "site": "https://objectivegroup.com/"
+    "site": "https://objectivegroup.com/",
+    "concluido": false
   },
   {
+    "id": 775,
     "empresa": "Access eforms",
-    "site": "http://www.accessefm.com/"
+    "site": "http://www.accessefm.com/",
+    "concluido": false
   },
   {
+    "id": 776,
     "empresa": "Logicalis Brasil",
-    "site": "https://www.la.logicalis.com/"
+    "site": "https://www.la.logicalis.com/",
+    "concluido": false
   },
   {
+    "id": 777,
     "empresa": "Samplemed",
-    "site": "https://www.samplemed.com.br/"
+    "site": "https://www.samplemed.com.br/",
+    "concluido": false
   },
   {
+    "id": 778,
     "empresa": "BR.Digital Telecom",
-    "site": "https://br.digital/"
+    "site": "https://br.digital/",
+    "concluido": false
   },
   {
+    "id": 779,
     "empresa": "Before",
-    "site": "http://www.before.com.br/"
+    "site": "http://www.before.com.br/",
+    "concluido": false
   },
   {
+    "id": 780,
     "empresa": "Digital Business",
-    "site": "https://www.digitalbusiness.com.br/"
+    "site": "https://www.digitalbusiness.com.br/",
+    "concluido": false
   },
   {
+    "id": 781,
     "empresa": "Betta Global Partner",
-    "site": "https://betta.gp/"
+    "site": "https://betta.gp/",
+    "concluido": false
   },
   {
+    "id": 782,
     "empresa": "Iterative",
-    "site": "https://www.iterative.com.br/"
+    "site": "https://www.iterative.com.br/",
+    "concluido": false
   },
   {
+    "id": 783,
     "empresa": "SCI Sistemas Contábeis",
-    "site": "https://sci.com.br/"
+    "site": "https://sci.com.br/",
+    "concluido": false
   },
   {
+    "id": 784,
     "empresa": "WAVY Global",
-    "site": "https://wavy.global/en/"
+    "site": "https://wavy.global/en/",
+    "concluido": false
   },
   {
+    "id": 785,
     "empresa": "Designers do Futuro",
-    "site": "https://www.designersdofuturo.com/"
+    "site": "https://www.designersdofuturo.com/",
+    "concluido": false
   },
   {
+    "id": 786,
     "empresa": "Consisa Systems",
-    "site": "https://www.consisa.com.br/"
+    "site": "https://www.consisa.com.br/",
+    "concluido": false
   },
   {
+    "id": 787,
     "empresa": "Memora Processos Inovadores",
-    "site": "https://www.memora.com.br/"
+    "site": "https://www.memora.com.br/",
+    "concluido": false
   },
   {
+    "id": 788,
     "empresa": "SPRO IT Solutions",
-    "site": "https://www.spro.com.br/"
+    "site": "https://www.spro.com.br/",
+    "concluido": false
   },
   {
+    "id": 789,
     "empresa": "Orizon Brazil",
-    "site": "https://www.orizon.com.br/"
+    "site": "https://www.orizon.com.br/",
+    "concluido": false
   },
   {
+    "id": 790,
     "empresa": "Datamétrica",
-    "site": "https://datametrica.com.br/"
+    "site": "https://datametrica.com.br/",
+    "concluido": false
   },
   {
+    "id": 791,
     "empresa": "Opi Soluções",
-    "site": "https://www.opisolucoes.com/"
+    "site": "https://www.opisolucoes.com/",
+    "concluido": false
   },
   {
+    "id": 792,
     "empresa": "RedFox",
-    "site": "https://redfox.tech/"
+    "site": "https://redfox.tech/",
+    "concluido": false
   },
   {
+    "id": 793,
     "empresa": "Tinnova",
-    "site": "https://tinnova.com.br/"
+    "site": "https://tinnova.com.br/",
+    "concluido": false
   },
   {
+    "id": 794,
     "empresa": "7COMm",
-    "site": "http://www.7comm.com.br/"
+    "site": "http://www.7comm.com.br/",
+    "concluido": false
   },
   {
+    "id": 795,
     "empresa": "Gridmidia",
-    "site": "https://gridmidia.com/"
+    "site": "https://gridmidia.com/",
+    "concluido": false
   },
   {
+    "id": 796,
     "empresa": "HVAR Consulting",
-    "site": "https://hvarconsulting.com.br/"
+    "site": "https://hvarconsulting.com.br/",
+    "concluido": false
   },
   {
+    "id": 797,
     "empresa": "Nota Registrada",
-    "site": "http://www.notaregistrada.com.br/"
+    "site": "http://www.notaregistrada.com.br/",
+    "concluido": false
   },
   {
+    "id": 798,
     "empresa": "LinkedBy",
-    "site": "https://linkedby.com.br/"
+    "site": "https://linkedby.com.br/",
+    "concluido": false
   },
   {
+    "id": 799,
     "empresa": "Globalweb",
-    "site": "https://www.globalwebcorp.com.br/"
+    "site": "https://www.globalwebcorp.com.br/",
+    "concluido": false
   },
   {
+    "id": 800,
     "empresa": "Vixting",
-    "site": "https://vixting.com.br/"
+    "site": "https://vixting.com.br/",
+    "concluido": false
   },
   {
+    "id": 801,
     "empresa": "Fácil",
-    "site": "https://facil.com.br/"
+    "site": "https://facil.com.br/",
+    "concluido": false
   },
   {
+    "id": 802,
     "empresa": "DealerNet",
-    "site": "https://www.dealernet.com.br/"
+    "site": "https://www.dealernet.com.br/",
+    "concluido": false
   },
   {
+    "id": 803,
     "empresa": "CJR",
-    "site": "https://cjr.org.br/"
+    "site": "https://cjr.org.br/",
+    "concluido": false
   },
   {
+    "id": 804,
     "empresa": "INVENT SOFTWARE",
-    "site": "http://inventsoftware.com.br/"
+    "site": "http://inventsoftware.com.br/",
+    "concluido": false
   },
   {
+    "id": 805,
     "empresa": "Opus Software",
-    "site": "http://www.opussoftware.com/"
+    "site": "http://www.opussoftware.com/",
+    "concluido": false
   },
   {
+    "id": 806,
     "empresa": "Inoa",
-    "site": "https://www.inoa.com/"
+    "site": "https://www.inoa.com/",
+    "concluido": false
   },
   {
+    "id": 807,
     "empresa": "Dataside",
-    "site": "https://www.dataside.com.br/"
+    "site": "https://www.dataside.com.br/",
+    "concluido": false
   },
   {
+    "id": 808,
     "empresa": "SysMap Solutions",
-    "site": "https://sysmap.com.br/"
+    "site": "https://sysmap.com.br/",
+    "concluido": false
   },
   {
+    "id": 809,
     "empresa": "PUGA Studios",
-    "site": "https://pugastudios.com/"
+    "site": "https://pugastudios.com/",
+    "concluido": false
   },
   {
+    "id": 810,
     "empresa": "Defense Ministry",
-    "site": "https://www.gov.br/defesa"
+    "site": "https://www.gov.br/defesa",
+    "concluido": false
   },
   {
+    "id": 811,
     "empresa": "G4 Global Partners",
-    "site": "http://g4globalpartners.com/"
+    "site": "http://g4globalpartners.com/",
+    "concluido": false
   },
   {
+    "id": 812,
     "empresa": "Instituto de Pesquisas Tecnológicas",
-    "site": "https://ipt.br/"
+    "site": "https://ipt.br/",
+    "concluido": false
   },
   {
+    "id": 813,
     "empresa": "Abrahão",
-    "site": "https://www.abrahao.com.br/"
+    "site": "https://www.abrahao.com.br/",
+    "concluido": false
   },
   {
+    "id": 814,
     "empresa": "SKA",
-    "site": "https://ska.com.br/"
+    "site": "https://ska.com.br/",
+    "concluido": false
   },
   {
+    "id": 815,
     "empresa": "TrueChange",
-    "site": "https://truechange.com.br/"
+    "site": "https://truechange.com.br/",
+    "concluido": false
   },
   {
+    "id": 816,
     "empresa": "DMS Engenharia e Refrigeração",
-    "site": "https://www.dmsengenharia.com/"
+    "site": "https://www.dmsengenharia.com/",
+    "concluido": false
   },
   {
+    "id": 817,
     "empresa": "Ciatech",
-    "site": "http://www.ciatech.com.br/"
+    "site": "http://www.ciatech.com.br/",
+    "concluido": false
   },
   {
+    "id": 818,
     "empresa": "Digix",
-    "site": "https://www.digix.com.br/"
+    "site": "https://www.digix.com.br/",
+    "concluido": false
   },
   {
+    "id": 819,
     "empresa": "Vinco Soluções Tecnológicas",
-    "site": "https://vinco.com.br/"
+    "site": "https://vinco.com.br/",
+    "concluido": false
   },
   {
+    "id": 820,
     "empresa": "Ravex",
-    "site": "https://ravex.com.br/"
+    "site": "https://ravex.com.br/",
+    "concluido": false
   },
   {
+    "id": 821,
     "empresa": "BlueShift Brasil",
-    "site": "https://blueshift.com.br/"
+    "site": "https://blueshift.com.br/",
+    "concluido": false
   },
   {
+    "id": 822,
     "empresa": "Tecno IT",
-    "site": "https://tecnoit.com.br/"
+    "site": "https://tecnoit.com.br/",
+    "concluido": false
   },
   {
+    "id": 823,
     "empresa": "Aspec Informática",
-    "site": "https://aspec.com.br/"
+    "site": "https://aspec.com.br/",
+    "concluido": false
   },
   {
+    "id": 824,
     "empresa": "Positivo Informática",
-    "site": "https://www.meupositivo.com.br/"
+    "site": "https://www.meupositivo.com.br/",
+    "concluido": false
   },
   {
+    "id": 825,
     "empresa": "TEx",
-    "site": "https://www.textecnologia.com.br/"
+    "site": "https://www.textecnologia.com.br/",
+    "concluido": false
   },
   {
+    "id": 826,
     "empresa": "Sábia Experience",
-    "site": "https://sabia.com.br/"
+    "site": "https://sabia.com.br/",
+    "concluido": false
   },
   {
+    "id": 827,
     "empresa": "SOUTH SYSTEM",
-    "site": "https://www.southsystem.com.br/"
+    "site": "https://www.southsystem.com.br/",
+    "concluido": false
   },
   {
+    "id": 828,
     "empresa": "Golfleet",
-    "site": "https://golfleet.com.br/"
+    "site": "https://golfleet.com.br/",
+    "concluido": false
   },
   {
+    "id": 829,
     "empresa": "TO Brazil",
-    "site": "https://to-brasil.com/"
+    "site": "https://to-brasil.com/",
+    "concluido": false
   },
   {
+    "id": 830,
     "empresa": "Dr. Marvin",
-    "site": "https://doutormarvin.com.br/"
+    "site": "https://doutormarvin.com.br/",
+    "concluido": false
   },
   {
+    "id": 831,
     "empresa": "Sudamin",
-    "site": "https://www.sudamin.com.co/"
+    "site": "https://www.sudamin.com.co/",
+    "concluido": false
   },
   {
+    "id": 832,
     "empresa": "Infocar Technology",
-    "site": "https://infocar.com.br/"
+    "site": "https://infocar.com.br/",
+    "concluido": false
   },
   {
+    "id": 833,
     "empresa": "SIEG",
-    "site": "https://www.sieg.com/"
+    "site": "https://www.sieg.com/",
+    "concluido": false
   },
   {
+    "id": 834,
     "empresa": "NG Informática",
-    "site": "http://www.ngi.com.br/"
+    "site": "http://www.ngi.com.br/",
+    "concluido": false
   },
   {
+    "id": 835,
     "empresa": "Quiver Solutions",
-    "site": "https://www.quiver.net.br/"
+    "site": "https://www.quiver.net.br/",
+    "concluido": false
   },
   {
+    "id": 836,
     "empresa": "Platform Builders",
-    "site": "https://platformbuilders.io/"
+    "site": "https://platformbuilders.io/",
+    "concluido": false
   },
   {
+    "id": 837,
     "empresa": "Fundação CERTI",
-    "site": "https://certi.org.br/"
+    "site": "https://certi.org.br/",
+    "concluido": false
   },
   {
+    "id": 838,
     "empresa": "Toccato",
-    "site": "https://toccato.com.br/"
+    "site": "https://toccato.com.br/",
+    "concluido": false
   },
   {
+    "id": 839,
     "empresa": "Sigma Systems",
-    "site": "http://www.sigma-systems.com/"
+    "site": "http://www.sigma-systems.com/",
+    "concluido": false
   },
   {
+    "id": 840,
     "empresa": "Liberty Health",
-    "site": "https://www.libertyti.com.br/"
+    "site": "https://www.libertyti.com.br/",
+    "concluido": false
   },
   {
+    "id": 841,
     "empresa": "Prox",
-    "site": "https://prox.com.br/"
+    "site": "https://prox.com.br/",
+    "concluido": false
   },
   {
+    "id": 842,
     "empresa": "NEXTAR",
-    "site": "https://www.nextar.com/"
+    "site": "https://www.nextar.com/",
+    "concluido": false
   },
   {
+    "id": 843,
     "empresa": "WPensar",
-    "site": "http://wpensar.com.br/"
+    "site": "http://wpensar.com.br/",
+    "concluido": false
   },
   {
+    "id": 844,
     "empresa": "Marketdata",
-    "site": "https://marketdata.com.br/"
+    "site": "https://marketdata.com.br/",
+    "concluido": false
   },
   {
+    "id": 845,
     "empresa": "Decatron",
-    "site": "https://decatron.com.br/"
+    "site": "https://decatron.com.br/",
+    "concluido": false
   },
   {
+    "id": 846,
     "empresa": "Robbyson",
-    "site": "https://insights.robbyson.com/"
+    "site": "https://insights.robbyson.com/",
+    "concluido": false
   },
   {
+    "id": 847,
     "empresa": "Teclógica",
-    "site": "https://www.teclogica.com.br/"
+    "site": "https://www.teclogica.com.br/",
+    "concluido": false
   },
   {
+    "id": 848,
     "empresa": "MadeinWeb e Mobile",
-    "site": "https://www.madeinweb.com.br/"
+    "site": "https://www.madeinweb.com.br/",
+    "concluido": false
   },
   {
+    "id": 849,
     "empresa": "Zeev",
-    "site": "https://zeev.it/"
+    "site": "https://zeev.it/",
+    "concluido": false
   },
   {
+    "id": 850,
     "empresa": "Praxio Tecnologia",
-    "site": "https://www.praxio.com.br/"
+    "site": "https://www.praxio.com.br/",
+    "concluido": false
   },
   {
+    "id": 851,
     "empresa": "Consumer",
-    "site": "https://consumer.com.br/"
+    "site": "https://consumer.com.br/",
+    "concluido": false
   },
   {
+    "id": 852,
     "empresa": "Vocatu",
-    "site": "http://www.vocatu.marketing/"
+    "site": "http://www.vocatu.marketing/",
+    "concluido": false
   },
   {
+    "id": 853,
     "empresa": "Sencinet",
-    "site": "https://sencinet.com/"
+    "site": "https://sencinet.com/",
+    "concluido": false
   },
   {
+    "id": 854,
     "empresa": "Populis",
-    "site": "https://www.populisrh.com.br/"
+    "site": "https://www.populisrh.com.br/",
+    "concluido": false
   },
   {
+    "id": 855,
     "empresa": "Prova Facil",
-    "site": "https://www.provafacilnaweb.com.br/"
+    "site": "https://www.provafacilnaweb.com.br/",
+    "concluido": false
   },
   {
+    "id": 856,
     "empresa": "QYON Intelligent Systems",
-    "site": "http://www.qyon.com/en/"
+    "site": "http://www.qyon.com/en/",
+    "concluido": false
   },
   {
+    "id": 857,
     "empresa": "Galax Pay",
-    "site": "https://www.galaxpay.com.br/"
+    "site": "https://www.galaxpay.com.br/",
+    "concluido": false
   },
   {
+    "id": 858,
     "empresa": "G4Flex",
-    "site": "https://g4flex.com.br/"
+    "site": "https://g4flex.com.br/",
+    "concluido": false
   },
   {
+    "id": 859,
     "empresa": "Yaman",
-    "site": "https://yaman.com.br/"
+    "site": "https://yaman.com.br/",
+    "concluido": false
   },
   {
+    "id": 860,
     "empresa": "Motora Technologies",
-    "site": "http://www.motora.ai/"
+    "site": "http://www.motora.ai/",
+    "concluido": false
   },
   {
+    "id": 861,
     "empresa": "Programmer's",
-    "site": "https://www.programmers.com.br/"
+    "site": "https://www.programmers.com.br/",
+    "concluido": false
   },
   {
+    "id": 862,
     "empresa": "Digilab",
-    "site": "http://www.digilab.com.br/"
+    "site": "http://www.digilab.com.br/",
+    "concluido": false
   },
   {
+    "id": 863,
     "empresa": "Eleflow",
-    "site": "https://eleflow.com.br/"
+    "site": "https://eleflow.com.br/",
+    "concluido": false
   },
   {
+    "id": 864,
     "empresa": "RDI Software",
-    "site": "https://www.rdisoftware.com/"
+    "site": "https://www.rdisoftware.com/",
+    "concluido": false
   },
   {
+    "id": 865,
     "empresa": "BDA Solutions – Big Data & Analytics",
-    "site": "https://bdasolutions.com.br/"
+    "site": "https://bdasolutions.com.br/",
+    "concluido": false
   },
   {
+    "id": 866,
     "empresa": "Tauste Supermercados",
-    "site": "https://institucional.tauste.com.br/"
+    "site": "https://institucional.tauste.com.br/",
+    "concluido": false
   },
   {
+    "id": 867,
     "empresa": "Buzzmonitor",
-    "site": "http://getbuzzmonitor.com/"
+    "site": "http://getbuzzmonitor.com/",
+    "concluido": false
   },
   {
+    "id": 868,
     "empresa": "ERPFlex",
-    "site": "http://www.erpflex.com.br/"
+    "site": "http://www.erpflex.com.br/",
+    "concluido": false
   },
   {
+    "id": 869,
     "empresa": "Conquest One",
-    "site": "https://cq1.com.br/"
+    "site": "https://cq1.com.br/",
+    "concluido": false
   },
   {
+    "id": 870,
     "empresa": "BCR - CX",
-    "site": "https://www.bcrcx.com/"
+    "site": "https://www.bcrcx.com/",
+    "concluido": false
   },
   {
+    "id": 871,
     "empresa": "Virtual Sistemas",
-    "site": "https://www.virtualsistemas.com.br/"
+    "site": "https://www.virtualsistemas.com.br/",
+    "concluido": false
   },
   {
+    "id": 872,
     "empresa": "B4B.Ventures",
-    "site": "http://www.b4b.ventures/"
+    "site": "http://www.b4b.ventures/",
+    "concluido": false
   },
   {
+    "id": 873,
     "empresa": "Touch Health",
-    "site": "http://touchhealth.com.br/"
+    "site": "http://touchhealth.com.br/",
+    "concluido": false
   },
   {
+    "id": 874,
     "empresa": "NovaProlink Tecnologia",
-    "site": "http://www.novaprolink.com.br/"
+    "site": "http://www.novaprolink.com.br/",
+    "concluido": false
   },
   {
+    "id": 875,
     "empresa": "FTD Educação",
-    "site": "https://ftd.com.br/"
+    "site": "https://ftd.com.br/",
+    "concluido": false
   },
   {
+    "id": 876,
     "empresa": "Daruma",
-    "site": "http://daruma.com.br/"
+    "site": "http://daruma.com.br/",
+    "concluido": false
   },
   {
+    "id": 877,
     "empresa": "fSense",
-    "site": "https://www.fsense.com/"
+    "site": "https://www.fsense.com/",
+    "concluido": false
   },
   {
+    "id": 878,
     "empresa": "Grupo Brinox",
-    "site": "https://grupobrinox.com.br/"
+    "site": "https://grupobrinox.com.br/",
+    "concluido": false
   },
   {
+    "id": 879,
     "empresa": "IDS Software",
-    "site": "https://www.ids.inf.br/"
+    "site": "https://www.ids.inf.br/",
+    "concluido": false
   },
   {
+    "id": 880,
     "empresa": "Artplan",
-    "site": "http://www.artplan.com.br/"
+    "site": "http://www.artplan.com.br/",
+    "concluido": false
   },
   {
+    "id": 881,
     "empresa": "CorpFlex",
-    "site": "https://corpflex.com.br/"
+    "site": "https://corpflex.com.br/",
+    "concluido": false
   },
   {
+    "id": 882,
     "empresa": "Codeminer 42",
-    "site": "http://www.codeminer42.com/"
+    "site": "http://www.codeminer42.com/",
+    "concluido": false
   },
   {
+    "id": 883,
     "empresa": "CTI",
-    "site": "https://www.cti.com.br/"
+    "site": "https://www.cti.com.br/",
+    "concluido": false
   },
   {
+    "id": 884,
     "empresa": "Allrede Telecom",
-    "site": "https://www.allrede.com.br/"
+    "site": "https://www.allrede.com.br/",
+    "concluido": false
   },
   {
+    "id": 885,
     "empresa": "TBDC Desenvolvimento De Software",
-    "site": "https://tbdc.com.br/"
+    "site": "https://tbdc.com.br/",
+    "concluido": false
   },
   {
+    "id": 886,
     "empresa": "AllowMe",
-    "site": "https://allowme.cloud/"
+    "site": "https://allowme.cloud/",
+    "concluido": false
   },
   {
+    "id": 887,
     "empresa": "Numen",
-    "site": "https://www.numenit.com/"
+    "site": "https://www.numenit.com/",
+    "concluido": false
   },
   {
+    "id": 888,
     "empresa": "Penso Tecnologia",
-    "site": "https://www.penso.com.br/"
+    "site": "https://www.penso.com.br/",
+    "concluido": false
   },
   {
+    "id": 889,
     "empresa": "Acessórias",
-    "site": "https://acessorias.com/"
+    "site": "https://acessorias.com/",
+    "concluido": false
   },
   {
+    "id": 890,
     "empresa": "Betalabs",
-    "site": "https://betalabs.com.br/"
+    "site": "https://betalabs.com.br/",
+    "concluido": false
   },
   {
+    "id": 891,
     "empresa": "MTP Methods & Technology",
-    "site": "https://mtp.com.br/"
+    "site": "https://mtp.com.br/",
+    "concluido": false
   },
   {
+    "id": 892,
     "empresa": "2S Inovações Tecnológicas",
-    "site": "http://www.2s.com.br/"
+    "site": "http://www.2s.com.br/",
+    "concluido": false
   },
   {
+    "id": 893,
     "empresa": "Rhizome",
-    "site": "https://rhizom.me/"
+    "site": "https://rhizom.me/",
+    "concluido": false
   },
   {
+    "id": 894,
     "empresa": "Greenpass",
-    "site": "https://www.greenpass.com.br/"
+    "site": "https://www.greenpass.com.br/",
+    "concluido": false
   },
   {
+    "id": 895,
     "empresa": "Beetools",
-    "site": "https://www.beetools.com.br/"
+    "site": "https://www.beetools.com.br/",
+    "concluido": false
   },
   {
+    "id": 896,
     "empresa": "GoCare Saúde",
-    "site": "https://gocaresaude.com.br/"
+    "site": "https://gocaresaude.com.br/",
+    "concluido": false
   },
   {
+    "id": 897,
     "empresa": "Lecom",
-    "site": "https://www.lecom.com.br/"
+    "site": "https://www.lecom.com.br/",
+    "concluido": false
   },
   {
+    "id": 898,
     "empresa": "inventCloud",
-    "site": "https://www.inventcloud.com.br/"
+    "site": "https://www.inventcloud.com.br/",
+    "concluido": false
   },
   {
+    "id": 899,
     "empresa": "BizPRO",
-    "site": "https://bizpro.com.br/"
+    "site": "https://bizpro.com.br/",
+    "concluido": false
   },
   {
+    "id": 900,
     "empresa": "Network Secure",
-    "site": "https://www.networksecure.com.br/"
+    "site": "https://www.networksecure.com.br/",
+    "concluido": false
   },
   {
+    "id": 901,
     "empresa": "Strattner",
-    "site": "https://www.strattner.com.br/"
+    "site": "https://www.strattner.com.br/",
+    "concluido": false
   },
   {
+    "id": 902,
     "empresa": "Kroton Educacional",
-    "site": "http://www.kroton.com.br/"
+    "site": "http://www.kroton.com.br/",
+    "concluido": false
   },
   {
+    "id": 903,
     "empresa": "Nextios",
-    "site": "https://nextios.com.br/"
+    "site": "https://nextios.com.br/",
+    "concluido": false
   },
   {
+    "id": 904,
     "empresa": "Idea Maker",
-    "site": "https://www.ideamaker.com.br/"
+    "site": "https://www.ideamaker.com.br/",
+    "concluido": false
   },
   {
+    "id": 905,
     "empresa": "Bagy",
-    "site": "http://promo.bagy.com.br/"
+    "site": "http://promo.bagy.com.br/",
+    "concluido": false
   },
   {
+    "id": 906,
     "empresa": "ISH Tech",
-    "site": "https://ish.com.br/"
+    "site": "https://ish.com.br/",
+    "concluido": false
   },
   {
+    "id": 907,
     "empresa": "Vert Soluções em TIC",
-    "site": "https://www.vert.com.br/"
+    "site": "https://www.vert.com.br/",
+    "concluido": false
   },
   {
+    "id": 908,
     "empresa": "ed",
-    "site": "https://ed.dev.br/solucoes"
+    "site": "https://ed.dev.br/solucoes",
+    "concluido": false
   },
   {
+    "id": 909,
     "empresa": "MODULAR Data Centers",
-    "site": "https://modulardtc.com/"
+    "site": "https://modulardtc.com/",
+    "concluido": false
   },
   {
+    "id": 910,
     "empresa": "SantoDigital",
-    "site": "http://santodigital.com.br/"
+    "site": "http://santodigital.com.br/",
+    "concluido": false
   },
   {
+    "id": 911,
     "empresa": "Milldesk",
-    "site": "http://www.milldesk.com/"
+    "site": "http://www.milldesk.com/",
+    "concluido": false
   },
   {
+    "id": 912,
     "empresa": "CoreBiz",
-    "site": "https://www.corebiz.ag/en/"
+    "site": "https://www.corebiz.ag/en/",
+    "concluido": false
   },
   {
+    "id": 913,
     "empresa": "Midas Solutions",
-    "site": "http://www.midassolutions.com.br/"
+    "site": "http://www.midassolutions.com.br/",
+    "concluido": false
   },
   {
+    "id": 914,
     "empresa": "walla",
-    "site": "https://www.walla.com/"
+    "site": "https://www.walla.com/",
+    "concluido": false
   },
   {
+    "id": 915,
     "empresa": "F2IT",
-    "site": "https://www.f2it.com.br/"
+    "site": "https://www.f2it.com.br/",
+    "concluido": false
   },
   {
+    "id": 916,
     "empresa": "Mindworks",
-    "site": "https://mindworks.com.br/"
+    "site": "https://mindworks.com.br/",
+    "concluido": false
   },
   {
+    "id": 917,
     "empresa": "Dbserver",
-    "site": "http://www.dbserver.com.br/"
+    "site": "http://www.dbserver.com.br/",
+    "concluido": false
   },
   {
+    "id": 918,
     "empresa": "Digital Results",
-    "site": "https://resultadosdigitais.com.br/"
+    "site": "https://resultadosdigitais.com.br/",
+    "concluido": false
   },
   {
+    "id": 919,
     "empresa": "Looplex",
-    "site": "https://www.looplex.com.br/"
+    "site": "https://www.looplex.com.br/",
+    "concluido": false
   },
   {
+    "id": 920,
     "empresa": "Keyworks Software",
-    "site": "https://www.keyworks.com.br/"
+    "site": "https://www.keyworks.com.br/",
+    "concluido": false
   },
   {
+    "id": 921,
     "empresa": "CodeBit",
-    "site": "https://codebit.com.br/"
+    "site": "https://codebit.com.br/",
+    "concluido": false
   },
   {
+    "id": 922,
     "empresa": "Carglass Brasil",
-    "site": "http://www.carglass.com.br/"
+    "site": "http://www.carglass.com.br/",
+    "concluido": false
   },
   {
+    "id": 923,
     "empresa": "Xpert",
-    "site": "https://www.xpert.com.br/"
+    "site": "https://www.xpert.com.br/",
+    "concluido": false
   },
   {
+    "id": 924,
     "empresa": "Delphos",
-    "site": "https://www.delphos.com.br/en/"
+    "site": "https://www.delphos.com.br/en/",
+    "concluido": false
   },
   {
+    "id": 925,
     "empresa": "Exactus Software",
-    "site": "https://www.exactus.com.br/"
+    "site": "https://www.exactus.com.br/",
+    "concluido": false
   },
   {
+    "id": 926,
     "empresa": "Sciensa",
-    "site": "http://www.sciensa.com/"
+    "site": "http://www.sciensa.com/",
+    "concluido": false
   },
   {
+    "id": 927,
     "empresa": "Mogai Tecnologia",
-    "site": "https://mogai.com.br/"
+    "site": "https://mogai.com.br/",
+    "concluido": false
   },
   {
+    "id": 928,
     "empresa": "Sidia",
-    "site": "https://www.sidia.com/"
+    "site": "https://www.sidia.com/",
+    "concluido": false
   },
   {
+    "id": 929,
     "empresa": "Digisystem",
-    "site": "https://www.digisystem.com.br/"
+    "site": "https://www.digisystem.com.br/",
+    "concluido": false
   },
   {
+    "id": 930,
     "empresa": "Eteg Tecnologia da Informação",
-    "site": "https://www.eteg.com.br/"
+    "site": "https://www.eteg.com.br/",
+    "concluido": false
   },
   {
+    "id": 931,
     "empresa": "Interaxa",
-    "site": "https://www.interaxa.com/"
+    "site": "https://www.interaxa.com/",
+    "concluido": false
   },
   {
+    "id": 932,
     "empresa": "Nexxera",
-    "site": "https://nexxera.com/"
+    "site": "https://nexxera.com/",
+    "concluido": false
   },
   {
+    "id": 933,
     "empresa": "Grupo Contax",
-    "site": "http://www.contax.com.br/"
+    "site": "http://www.contax.com.br/",
+    "concluido": false
   },
   {
+    "id": 934,
     "empresa": "Imagem",
-    "site": "http://www.img.com.br/"
+    "site": "http://www.img.com.br/",
+    "concluido": false
   },
   {
+    "id": 935,
     "empresa": "Cittati Tecnologia",
-    "site": "https://cittati.com.br/"
+    "site": "https://cittati.com.br/",
+    "concluido": false
   },
   {
+    "id": 936,
     "empresa": "Senior Unit North of Paraná",
-    "site": "https://www.seniornortepr.com.br/"
+    "site": "https://www.seniornortepr.com.br/",
+    "concluido": false
   },
   {
+    "id": 937,
     "empresa": "Sonner Systems",
-    "site": "https://www.sonner.com.br/"
+    "site": "https://www.sonner.com.br/",
+    "concluido": false
   },
   {
+    "id": 938,
     "empresa": "IHARA",
-    "site": "https://ihara.com.br/"
+    "site": "https://ihara.com.br/",
+    "concluido": false
   },
   {
+    "id": 939,
     "empresa": "Shoebiz-Tennisbar",
-    "site": "https://www.tennisbar.com.br/"
+    "site": "https://www.tennisbar.com.br/",
+    "concluido": false
   },
   {
+    "id": 940,
     "empresa": "ZCR Informática",
-    "site": "https://www.zcr.com.br/"
+    "site": "https://www.zcr.com.br/",
+    "concluido": false
   },
   {
+    "id": 941,
     "empresa": "Techsocial",
-    "site": "https://www.techsocial.com.br/"
+    "site": "https://www.techsocial.com.br/",
+    "concluido": false
   },
   {
+    "id": 942,
     "empresa": "Granito",
-    "site": "https://granitopagamentos.com.br/"
+    "site": "https://granitopagamentos.com.br/",
+    "concluido": false
   },
   {
+    "id": 943,
     "empresa": "O Tempo",
-    "site": "https://www.otempo.com.br/"
+    "site": "https://www.otempo.com.br/",
+    "concluido": false
   },
   {
+    "id": 944,
     "empresa": "Keeggo",
-    "site": "https://keeggo.com/"
+    "site": "https://keeggo.com/",
+    "concluido": false
   },
   {
+    "id": 945,
     "empresa": "ART IT",
-    "site": "https://artit.com.br/"
+    "site": "https://artit.com.br/",
+    "concluido": false
   },
   {
+    "id": 946,
     "empresa": "Visionnaire Technologies",
-    "site": "https://www.visionnaire.com.br/en/"
+    "site": "https://www.visionnaire.com.br/en/",
+    "concluido": false
   },
   {
+    "id": 947,
     "empresa": "Grpcom",
-    "site": "https://www.grpcom.com.br/"
+    "site": "https://www.grpcom.com.br/",
+    "concluido": false
   },
   {
+    "id": 948,
     "empresa": "Shape",
-    "site": "https://www.shapedigital.com/"
+    "site": "https://www.shapedigital.com/",
+    "concluido": false
   },
   {
+    "id": 949,
     "empresa": "Big Brain Education",
-    "site": "https://bigbrain.com.br/"
+    "site": "https://bigbrain.com.br/",
+    "concluido": false
   },
   {
+    "id": 950,
     "empresa": "Class Solutions",
-    "site": "https://www.class-solutions.com.br/"
+    "site": "https://www.class-solutions.com.br/",
+    "concluido": false
   },
   {
+    "id": 951,
     "empresa": "Tangerino",
-    "site": "https://tangerino.com.br/"
+    "site": "https://tangerino.com.br/",
+    "concluido": false
   },
   {
+    "id": 952,
     "empresa": "Alphacode IT Solutions",
-    "site": "http://www.alphacode.com.br/"
+    "site": "http://www.alphacode.com.br/",
+    "concluido": false
   },
   {
+    "id": 953,
     "empresa": "Clinicarx",
-    "site": "https://clinicarx.com.br/"
+    "site": "https://clinicarx.com.br/",
+    "concluido": false
   },
   {
+    "id": 954,
     "empresa": "MATH Group",
-    "site": "https://www.math.group/"
+    "site": "https://www.math.group/",
+    "concluido": false
   },
   {
+    "id": 955,
     "empresa": "WeDo Tecnologia",
-    "site": "https://www.wedotec.com.br/"
+    "site": "https://www.wedotec.com.br/",
+    "concluido": false
   },
   {
+    "id": 956,
     "empresa": "YKP",
-    "site": "https://www.ykp.com.br/"
+    "site": "https://www.ykp.com.br/",
+    "concluido": false
   },
   {
+    "id": 957,
     "empresa": "Mega Sistemas Corporativos",
-    "site": "https://www.mega.com.br/"
+    "site": "https://www.mega.com.br/",
+    "concluido": false
   },
   {
+    "id": 958,
     "empresa": "SolarMarket",
-    "site": "https://www.solarmarket.com.br/"
+    "site": "https://www.solarmarket.com.br/",
+    "concluido": false
   },
   {
+    "id": 959,
     "empresa": "Sys Manager",
-    "site": "https://www.sysmanager.com.br/"
+    "site": "https://www.sysmanager.com.br/",
+    "concluido": false
   },
   {
+    "id": 960,
     "empresa": "Ampliva",
-    "site": "https://www.ampliva.com/"
+    "site": "https://www.ampliva.com/",
+    "concluido": false
   },
   {
+    "id": 961,
     "empresa": "VIMAN Sistemas",
-    "site": "https://vimansca.com.br/"
+    "site": "https://vimansca.com.br/",
+    "concluido": false
   },
   {
+    "id": 962,
     "empresa": "Poli Júnior",
-    "site": "https://polijunior.com.br/"
+    "site": "https://polijunior.com.br/",
+    "concluido": false
   },
   {
+    "id": 963,
     "empresa": "ACCT - Acupula Consulting & Technology",
-    "site": "https://acct.global/"
+    "site": "https://acct.global/",
+    "concluido": false
   },
   {
+    "id": 964,
     "empresa": "Added",
-    "site": "https://added.com.br/"
+    "site": "https://added.com.br/",
+    "concluido": false
   },
   {
+    "id": 965,
     "empresa": "Information Systems",
-    "site": "https://www.informationsys.com/"
+    "site": "https://www.informationsys.com/",
+    "concluido": false
   },
   {
+    "id": 966,
     "empresa": "Techware Systems",
-    "site": "https://www.techware.com.br/"
+    "site": "https://www.techware.com.br/",
+    "concluido": false
   },
   {
+    "id": 967,
     "empresa": "DT Labs",
-    "site": "https://dt-labs.ai/"
+    "site": "https://dt-labs.ai/",
+    "concluido": false
   },
   {
+    "id": 968,
     "empresa": "Locaweb",
-    "site": "https://lwsa.tech/"
+    "site": "https://lwsa.tech/",
+    "concluido": false
   },
   {
+    "id": 969,
     "empresa": "Telium",
-    "site": "http://www.telium.com.br/"
+    "site": "http://www.telium.com.br/",
+    "concluido": false
   },
   {
+    "id": 970,
     "empresa": "Wake",
-    "site": "https://wake.tech/"
+    "site": "https://wake.tech/",
+    "concluido": false
   },
   {
+    "id": 971,
     "empresa": "INTELLIGENZA",
-    "site": "https://intelligenzait.com/"
+    "site": "https://intelligenzait.com/",
+    "concluido": false
   },
   {
+    "id": 972,
     "empresa": "AltoQi",
-    "site": "http://www.altoqi.com.br/"
+    "site": "http://www.altoqi.com.br/",
+    "concluido": false
   },
   {
+    "id": 973,
     "empresa": "EPI-USE",
-    "site": "https://www.epiuse.com.br/"
+    "site": "https://www.epiuse.com.br/",
+    "concluido": false
   },
   {
+    "id": 974,
     "empresa": "Clude",
-    "site": "https://clude.com.br/"
+    "site": "https://clude.com.br/",
+    "concluido": false
   },
   {
+    "id": 975,
     "empresa": "SophiA",
-    "site": "https://www.sophia.com.br/"
+    "site": "https://www.sophia.com.br/",
+    "concluido": false
   },
   {
+    "id": 976,
     "empresa": "Assertiva",
-    "site": "https://www.assertivasolucoes.com.br/"
+    "site": "https://www.assertivasolucoes.com.br/",
+    "concluido": false
   },
   {
+    "id": 977,
     "empresa": "Explorernet",
-    "site": "https://www.explorernet.com.br/"
+    "site": "https://www.explorernet.com.br/",
+    "concluido": false
   },
   {
+    "id": 978,
     "empresa": "CNPH",
-    "site": "https://www.cnph.com.br/"
+    "site": "https://www.cnph.com.br/",
+    "concluido": false
   },
   {
+    "id": 979,
     "empresa": "Benefício Fácil",
-    "site": "https://www.beneficiofacil.com.br/"
+    "site": "https://www.beneficiofacil.com.br/",
+    "concluido": false
   },
   {
+    "id": 980,
     "empresa": "Reweb",
-    "site": "https://reweb.com.br/"
+    "site": "https://reweb.com.br/",
+    "concluido": false
   },
   {
+    "id": 981,
     "empresa": "Poliedro",
-    "site": "https://www.poliedroeducacao.com.br/"
+    "site": "https://www.poliedroeducacao.com.br/",
+    "concluido": false
   },
   {
+    "id": 982,
     "empresa": "Férias & Co.",
-    "site": "https://www.ferias.co/#/"
+    "site": "https://www.ferias.co/#/",
+    "concluido": false
   },
   {
+    "id": 983,
     "empresa": "Chip i7 Informática",
-    "site": "https://agenciachipi7.wixsite.com/chipi7"
+    "site": "https://agenciachipi7.wixsite.com/chipi7",
+    "concluido": false
   },
   {
+    "id": 984,
     "empresa": "Elaw",
-    "site": "https://elaw.com.br/"
+    "site": "https://elaw.com.br/",
+    "concluido": false
   },
   {
+    "id": 985,
     "empresa": "T Computer Informática",
-    "site": "http://www.tcomputer.com.br/"
+    "site": "http://www.tcomputer.com.br/",
+    "concluido": false
   },
   {
+    "id": 986,
     "empresa": "Malta Cobrancas",
-    "site": "http://www.maltacobrancas.com.br/"
+    "site": "http://www.maltacobrancas.com.br/",
+    "concluido": false
   },
   {
+    "id": 987,
     "empresa": "Cactus Gaming",
-    "site": "https://www.cactusgaming.net/"
+    "site": "https://www.cactusgaming.net/",
+    "concluido": false
   },
   {
+    "id": 988,
     "empresa": "Jet Documentação",
-    "site": "https://jetdoc.com.br/"
+    "site": "https://jetdoc.com.br/",
+    "concluido": false
   },
   {
+    "id": 989,
     "empresa": "Opus Entretenimento",
-    "site": "https://www.opusentretenimento.com/"
+    "site": "https://www.opusentretenimento.com/",
+    "concluido": false
   },
   {
+    "id": 990,
     "empresa": "DDS",
-    "site": "https://www.dds.com.br/"
+    "site": "https://www.dds.com.br/",
+    "concluido": false
   },
   {
+    "id": 991,
     "empresa": "Connectcom",
-    "site": "https://www.connectcom.com.br/"
+    "site": "https://www.connectcom.com.br/",
+    "concluido": false
   },
   {
+    "id": 992,
     "empresa": "GS Contact Center",
-    "site": "https://gscontactcenter.com.br/"
+    "site": "https://gscontactcenter.com.br/",
+    "concluido": false
   },
   {
+    "id": 993,
     "empresa": "Base Telco",
-    "site": "https://www.basetelco.com/"
+    "site": "https://www.basetelco.com/",
+    "concluido": false
   },
   {
+    "id": 994,
     "empresa": "Taiff",
-    "site": "https://taiff.com.br/"
+    "site": "https://taiff.com.br/",
+    "concluido": false
   },
   {
+    "id": 995,
     "empresa": "Golden Cloud Technology",
-    "site": "https://goldencloud.tech/"
+    "site": "https://goldencloud.tech/",
+    "concluido": false
   },
   {
+    "id": 996,
     "empresa": "Proativa Inteligência",
-    "site": "https://proativainfo.com.br/"
+    "site": "https://proativainfo.com.br/",
+    "concluido": false
   },
   {
+    "id": 997,
     "empresa": "Mobi2buy",
-    "site": "http://www.mobi2buy.com/"
+    "site": "http://www.mobi2buy.com/",
+    "concluido": false
   },
   {
+    "id": 998,
     "empresa": "C1Face",
-    "site": "https://c1face.com/"
+    "site": "https://c1face.com/",
+    "concluido": false
   },
   {
+    "id": 999,
     "empresa": "CronApp",
-    "site": "https://www.cronapp.io/"
+    "site": "https://www.cronapp.io/",
+    "concluido": false
   },
   {
+    "id": 1000,
     "empresa": "Vega Monitoramento",
-    "site": "https://vegamonitoramento.com.br/"
+    "site": "https://vegamonitoramento.com.br/",
+    "concluido": false
+  },
+  {
+    "id": 1001,
+    "empresa": "Empresa Teste",
+    "site": "http://teste.com",
+    "concluido": false
   }
 ]

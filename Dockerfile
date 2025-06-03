@@ -19,6 +19,12 @@ VOLUME /app/data
 # Expor a porta que a aplicação usa
 EXPOSE 3000
 
+# Script para iniciar a aplicação
+COPY docker-entrypoint.sh /usr/local/bin/
+RUN chmod +x /usr/local/bin/docker-entrypoint.sh
+
+ENTRYPOINT ["docker-entrypoint.sh"]
+
 # Definir variáveis de ambiente
 ENV PORT=3000
 ENV ADMIN_PASSWORD=admin123
